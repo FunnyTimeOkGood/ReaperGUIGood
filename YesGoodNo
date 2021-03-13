@@ -81,21 +81,14 @@ local ShindoLifeAutoFarm = Instance.new("TextButton")
 local UICorner_35 = Instance.new("UICorner")
 local ShindoLifeAutoSpin = Instance.new("TextButton")
 local UICorner_36 = Instance.new("UICorner")
-local NextPage = Instance.new("TextButton")
-local UICorner_37 = Instance.new("UICorner")
-local Scripts2 = Instance.new("Frame")
-local UICorner_38 = Instance.new("UICorner")
-local UIGradient_5 = Instance.new("UIGradient")
-local Title_4 = Instance.new("TextLabel")
-local UICorner_39 = Instance.new("UICorner")
 local Pages = Instance.new("Frame")
 local Home_2 = Instance.new("TextButton")
-local UICorner_40 = Instance.new("UICorner")
+local UICorner_37 = Instance.new("UICorner")
 local Scripts_2 = Instance.new("TextButton")
-local UICorner_41 = Instance.new("UICorner")
+local UICorner_38 = Instance.new("UICorner")
 local Player_2 = Instance.new("TextButton")
-local UICorner_42 = Instance.new("UICorner")
-local UICorner_43 = Instance.new("UICorner")
+local UICorner_39 = Instance.new("UICorner")
+local UICorner_40 = Instance.new("UICorner")
 
 --Properties:
 
@@ -634,45 +627,6 @@ ShindoLifeAutoSpin.TextWrapped = true
 
 UICorner_36.Parent = ShindoLifeAutoSpin
 
-NextPage.Name = "NextPage"
-NextPage.Parent = Scripts
-NextPage.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
-NextPage.BackgroundTransparency = 0.800
-NextPage.Position = UDim2.new(0.852941155, 0, 0.791649461, 0)
-NextPage.Size = UDim2.new(0, 33, 0, 21)
-NextPage.Font = Enum.Font.SourceSans
-NextPage.Text = ">>"
-NextPage.TextColor3 = Color3.fromRGB(0, 0, 0)
-NextPage.TextSize = 25.000
-NextPage.TextWrapped = true
-
-UICorner_37.Parent = NextPage
-
-Scripts2.Name = "Scripts2"
-Scripts2.Parent = Scripts
-Scripts2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Scripts2.Size = UDim2.new(0, 408, 0, 226)
-Scripts2.Visible = false
-
-UICorner_38.Parent = Scripts2
-
-UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
-UIGradient_5.Parent = Scripts2
-
-Title_4.Name = "Title"
-Title_4.Parent = Scripts2
-Title_4.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
-Title_4.BackgroundTransparency = 0.800
-Title_4.Size = UDim2.new(0, 408, 0, 41)
-Title_4.Font = Enum.Font.TitilliumWeb
-Title_4.Text = "Reaper Hub"
-Title_4.TextColor3 = Color3.fromRGB(0, 0, 0)
-Title_4.TextScaled = true
-Title_4.TextSize = 14.000
-Title_4.TextWrapped = true
-
-UICorner_39.Parent = Title_4
-
 Pages.Name = "Pages"
 Pages.Parent = PremiumGUI
 Pages.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
@@ -695,7 +649,7 @@ Home_2.TextScaled = true
 Home_2.TextSize = 14.000
 Home_2.TextWrapped = true
 
-UICorner_40.Parent = Home_2
+UICorner_37.Parent = Home_2
 
 Scripts_2.Name = "Scripts"
 Scripts_2.Parent = Pages
@@ -711,7 +665,7 @@ Scripts_2.TextScaled = true
 Scripts_2.TextSize = 14.000
 Scripts_2.TextWrapped = true
 
-UICorner_41.Parent = Scripts_2
+UICorner_38.Parent = Scripts_2
 
 Player_2.Name = "Player"
 Player_2.Parent = Pages
@@ -727,20 +681,20 @@ Player_2.TextScaled = true
 Player_2.TextSize = 14.000
 Player_2.TextWrapped = true
 
-UICorner_42.Parent = Player_2
+UICorner_39.Parent = Player_2
 
-UICorner_43.Parent = Pages
+UICorner_40.Parent = Pages
 
 -- Scripts:
 
-local function LAUKK_fake_script() -- LoginGUI.Draggable 
+local function SNKIZC_fake_script() -- LoginGUI.Draggable 
 	local script = Instance.new('LocalScript', LoginGUI)
 
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(LAUKK_fake_script)()
-local function ZCRYULN_fake_script() -- LoginGUI.LoginScript 
+coroutine.wrap(SNKIZC_fake_script)()
+local function CNOXU_fake_script() -- LoginGUI.LoginScript 
 	local script = Instance.new('LocalScript', LoginGUI)
 
 	script.Parent.Login.MouseButton1Click:Connect(function()
@@ -776,22 +730,22 @@ local function ZCRYULN_fake_script() -- LoginGUI.LoginScript
 		end
 	end)
 end
-coroutine.wrap(ZCRYULN_fake_script)()
-local function AXJKGU_fake_script() -- ScreenGui.LoginTween 
+coroutine.wrap(CNOXU_fake_script)()
+local function IDQKSBQ_fake_script() -- ScreenGui.LoginTween 
 	local script = Instance.new('Script', ScreenGui)
 
 	local object = script.Parent.LoginGUI
 	object:TweenPosition(UDim2.new(0.308,0,0.25,0),"Out","Bounce",1.5)
 end
-coroutine.wrap(AXJKGU_fake_script)()
-local function GOKUD_fake_script() -- PremiumGUI.Script 
+coroutine.wrap(IDQKSBQ_fake_script)()
+local function WXPZOTQ_fake_script() -- PremiumGUI.Script 
 	local script = Instance.new('Script', PremiumGUI)
 
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(GOKUD_fake_script)()
-local function RTNPWRJ_fake_script() -- nil.ShindoLifeAutoSpinScript 
+coroutine.wrap(WXPZOTQ_fake_script)()
+local function LTZIHZN_fake_script() -- nil.ShindoLifeAutoSpinScript 
 	local script = Instance.new('LocalScript', nil)
 
 	local player = game.Players.LocalPlayer
@@ -799,8 +753,8 @@ local function RTNPWRJ_fake_script() -- nil.ShindoLifeAutoSpinScript
 		
 	end)
 end
-coroutine.wrap(RTNPWRJ_fake_script)()
-local function SXLTP_fake_script() -- Player.SpeedScript 
+coroutine.wrap(LTZIHZN_fake_script)()
+local function OKZK_fake_script() -- Player.SpeedScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -808,8 +762,8 @@ local function SXLTP_fake_script() -- Player.SpeedScript
 		player.Character.Humanoid.WalkSpeed = script.Parent.SpeedText.Text
 	end)
 end
-coroutine.wrap(SXLTP_fake_script)()
-local function FYASSAU_fake_script() -- Player.JumpScript 
+coroutine.wrap(OKZK_fake_script)()
+local function JDLKNKX_fake_script() -- Player.JumpScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -817,8 +771,8 @@ local function FYASSAU_fake_script() -- Player.JumpScript
 		player.Character.Humanoid.JumpPower = script.Parent.JumpText.Text
 	end)
 end
-coroutine.wrap(FYASSAU_fake_script)()
-local function EAQHDE_fake_script() -- Player.FlightScript 
+coroutine.wrap(JDLKNKX_fake_script)()
+local function PQVAOH_fake_script() -- Player.FlightScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -907,8 +861,8 @@ local function EAQHDE_fake_script() -- Player.FlightScript
 	end)
 	
 end
-coroutine.wrap(EAQHDE_fake_script)()
-local function RULQIVX_fake_script() -- Player.NoClipScript 
+coroutine.wrap(PQVAOH_fake_script)()
+local function NZMC_fake_script() -- Player.NoClipScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -933,8 +887,8 @@ local function RULQIVX_fake_script() -- Player.NoClipScript
 	end)
 	
 end
-coroutine.wrap(RULQIVX_fake_script)()
-local function JDLOKWB_fake_script() -- Player.InfiniteJumpScript 
+coroutine.wrap(NZMC_fake_script)()
+local function WJZDX_fake_script() -- Player.InfiniteJumpScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -947,8 +901,8 @@ local function JDLOKWB_fake_script() -- Player.InfiniteJumpScript
 		end)
 	end)
 end
-coroutine.wrap(JDLOKWB_fake_script)()
-local function TMOY_fake_script() -- Player.ClickTPScript 
+coroutine.wrap(WJZDX_fake_script)()
+local function WDUH_fake_script() -- Player.ClickTPScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -970,8 +924,8 @@ local function TMOY_fake_script() -- Player.ClickTPScript
 		tool.Parent = plr.Backpack
 	end)
 end
-coroutine.wrap(TMOY_fake_script)()
-local function GBBGXL_fake_script() -- Player.BToolsScript 
+coroutine.wrap(WDUH_fake_script)()
+local function DZIR_fake_script() -- Player.BToolsScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -988,8 +942,8 @@ local function GBBGXL_fake_script() -- Player.BToolsScript
 		tool5.BinType = "Grab"
 	end)
 end
-coroutine.wrap(GBBGXL_fake_script)()
-local function GXHXKL_fake_script() -- Scripts.DarkHubScript 
+coroutine.wrap(DZIR_fake_script)()
+local function GXCVP_fake_script() -- Scripts.DarkHubScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -997,8 +951,8 @@ local function GXHXKL_fake_script() -- Scripts.DarkHubScript
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/NougatBitz/DuckHub/master/Main.lua'))()
 	end)
 end
-coroutine.wrap(GXHXKL_fake_script)()
-local function KOOFPGT_fake_script() -- Scripts.DuckHubScript 
+coroutine.wrap(GXCVP_fake_script)()
+local function WCTL_fake_script() -- Scripts.DuckHubScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1006,8 +960,8 @@ local function KOOFPGT_fake_script() -- Scripts.DuckHubScript
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
 	end)
 end
-coroutine.wrap(KOOFPGT_fake_script)()
-local function HSBOZHL_fake_script() -- Scripts.UniversalAimbotScript 
+coroutine.wrap(WCTL_fake_script)()
+local function JLVU_fake_script() -- Scripts.UniversalAimbotScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1015,8 +969,8 @@ local function HSBOZHL_fake_script() -- Scripts.UniversalAimbotScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FunnyTimeOkGood/UniversalAimbot/main/Aimbotyes"))()
 	end)
 end
-coroutine.wrap(HSBOZHL_fake_script)()
-local function VDRXDF_fake_script() -- Scripts.OwlHubScript 
+coroutine.wrap(JLVU_fake_script)()
+local function SNYUYPP_fake_script() -- Scripts.OwlHubScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1036,8 +990,8 @@ local function VDRXDF_fake_script() -- Scripts.OwlHubScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt"))()
 	end)
 end
-coroutine.wrap(VDRXDF_fake_script)()
-local function XBZYHE_fake_script() -- Scripts.LumberTycoon2Script 
+coroutine.wrap(SNYUYPP_fake_script)()
+local function WGPZB_fake_script() -- Scripts.LumberTycoon2Script 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1046,8 +1000,8 @@ local function XBZYHE_fake_script() -- Scripts.LumberTycoon2Script
 		loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')()
 	end)
 end
-coroutine.wrap(XBZYHE_fake_script)()
-local function YYCFAEQ_fake_script() -- Scripts.AlphaXScript 
+coroutine.wrap(WGPZB_fake_script)()
+local function GBBTX_fake_script() -- Scripts.AlphaXScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1055,8 +1009,8 @@ local function YYCFAEQ_fake_script() -- Scripts.AlphaXScript
 		loadstring(game:HttpGet("https://alpha1004.tech/scripts/AlphaX.lua"))()
 	end)
 end
-coroutine.wrap(YYCFAEQ_fake_script)()
-local function IGMWN_fake_script() -- Scripts.InfiniteYieldScript 
+coroutine.wrap(GBBTX_fake_script)()
+local function UVEL_fake_script() -- Scripts.InfiniteYieldScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1064,8 +1018,8 @@ local function IGMWN_fake_script() -- Scripts.InfiniteYieldScript
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 	end)
 end
-coroutine.wrap(IGMWN_fake_script)()
-local function LETOZQF_fake_script() -- Scripts.CMDXScript 
+coroutine.wrap(UVEL_fake_script)()
+local function JOVKO_fake_script() -- Scripts.CMDXScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1073,8 +1027,8 @@ local function LETOZQF_fake_script() -- Scripts.CMDXScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
 	end)
 end
-coroutine.wrap(LETOZQF_fake_script)()
-local function OXBRR_fake_script() -- Scripts.MurderMystery2Script 
+coroutine.wrap(JOVKO_fake_script)()
+local function LJBCMO_fake_script() -- Scripts.MurderMystery2Script 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1082,8 +1036,8 @@ local function OXBRR_fake_script() -- Scripts.MurderMystery2Script
 		loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
 	end)
 end
-coroutine.wrap(OXBRR_fake_script)()
-local function MDIHNI_fake_script() -- Scripts.ShindoLifeAutoFarmScript 
+coroutine.wrap(LJBCMO_fake_script)()
+local function ZMBR_fake_script() -- Scripts.ShindoLifeAutoFarmScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1091,17 +1045,8 @@ local function MDIHNI_fake_script() -- Scripts.ShindoLifeAutoFarmScript
 		loadstring(game:HttpGet("https://bruh.keshhub.com/main.lua"))()
 	end)
 end
-coroutine.wrap(MDIHNI_fake_script)()
-local function WNWXVG_fake_script() -- Scripts.NextPageScript 
-	local script = Instance.new('LocalScript', Scripts)
-
-	local player = game.Players.LocalPlayer
-	script.Parent.NextPage.MouseButton1Click:Connect(function()
-		script.Parent.
-	end)
-end
-coroutine.wrap(WNWXVG_fake_script)()
-local function HVKLROL_fake_script() -- Home_2.HomeScript 
+coroutine.wrap(ZMBR_fake_script)()
+local function VRCOLXK_fake_script() -- Home_2.HomeScript 
 	local script = Instance.new('Script', Home_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1111,8 +1056,8 @@ local function HVKLROL_fake_script() -- Home_2.HomeScript
 		script.Parent.Parent.Parent.Player.Visible = false
 	end)
 end
-coroutine.wrap(HVKLROL_fake_script)()
-local function PSWYD_fake_script() -- Scripts_2.ScriptsScript 
+coroutine.wrap(VRCOLXK_fake_script)()
+local function CLBKMR_fake_script() -- Scripts_2.ScriptsScript 
 	local script = Instance.new('Script', Scripts_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1122,8 +1067,8 @@ local function PSWYD_fake_script() -- Scripts_2.ScriptsScript
 		script.Parent.Parent.Parent.Player.Visible = false
 	end)
 end
-coroutine.wrap(PSWYD_fake_script)()
-local function DJMYGPI_fake_script() -- Player_2.PlayerScript 
+coroutine.wrap(CLBKMR_fake_script)()
+local function YSXWHTP_fake_script() -- Player_2.PlayerScript 
 	local script = Instance.new('Script', Player_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1133,4 +1078,4 @@ local function DJMYGPI_fake_script() -- Player_2.PlayerScript
 		script.Parent.Parent.Parent.Scripts.Visible = false
 	end)
 end
-coroutine.wrap(DJMYGPI_fake_script)()
+coroutine.wrap(YSXWHTP_fake_script)()
