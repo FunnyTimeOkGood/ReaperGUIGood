@@ -23,109 +23,171 @@ local UICorner_7 = Instance.new("UICorner")
 local UIGradient = Instance.new("UIGradient")
 local DiscordInvite = Instance.new("TextButton")
 local UICorner_8 = Instance.new("UICorner")
-local PremiumGUI = Instance.new("Frame")
+local Free = Instance.new("TextLabel")
 local UICorner_9 = Instance.new("UICorner")
+local PremiumGUI = Instance.new("Frame")
+local UICorner_10 = Instance.new("UICorner")
 local Player = Instance.new("Frame")
 local UIGradient_2 = Instance.new("UIGradient")
-local UICorner_10 = Instance.new("UICorner")
-local Title = Instance.new("TextLabel")
 local UICorner_11 = Instance.new("UICorner")
-local SpeedApply = Instance.new("TextButton")
+local Title = Instance.new("TextLabel")
 local UICorner_12 = Instance.new("UICorner")
-local SpeedText = Instance.new("TextBox")
+local SpeedApply = Instance.new("TextButton")
 local UICorner_13 = Instance.new("UICorner")
-local JumpText = Instance.new("TextBox")
+local SpeedText = Instance.new("TextBox")
 local UICorner_14 = Instance.new("UICorner")
-local JumpApply = Instance.new("TextButton")
+local JumpText = Instance.new("TextBox")
 local UICorner_15 = Instance.new("UICorner")
-local Flight = Instance.new("TextButton")
+local JumpApply = Instance.new("TextButton")
 local UICorner_16 = Instance.new("UICorner")
-local NoClip = Instance.new("TextButton")
+local Flight = Instance.new("TextButton")
 local UICorner_17 = Instance.new("UICorner")
-local InfiniteJump = Instance.new("TextButton")
+local NoClip = Instance.new("TextButton")
 local UICorner_18 = Instance.new("UICorner")
-local ClickTP = Instance.new("TextButton")
+local InfiniteJump = Instance.new("TextButton")
 local UICorner_19 = Instance.new("UICorner")
-local BTools = Instance.new("TextButton")
+local ClickTP = Instance.new("TextButton")
 local UICorner_20 = Instance.new("UICorner")
+local BTools = Instance.new("TextButton")
+local UICorner_21 = Instance.new("UICorner")
 local Scripts = Instance.new("Frame")
 local UIGradient_3 = Instance.new("UIGradient")
 local Title_2 = Instance.new("TextLabel")
-local UICorner_21 = Instance.new("UICorner")
 local UICorner_22 = Instance.new("UICorner")
-local DarkHub = Instance.new("TextButton")
 local UICorner_23 = Instance.new("UICorner")
-local DuckHub = Instance.new("TextButton")
+local DarkHub = Instance.new("TextButton")
 local UICorner_24 = Instance.new("UICorner")
-local UniversalAimbot = Instance.new("TextButton")
+local DuckHub = Instance.new("TextButton")
 local UICorner_25 = Instance.new("UICorner")
-local OwlHub = Instance.new("TextButton")
+local UniversalAimbot = Instance.new("TextButton")
 local UICorner_26 = Instance.new("UICorner")
-local LumberTycoon2 = Instance.new("TextButton")
+local OwlHub = Instance.new("TextButton")
 local UICorner_27 = Instance.new("UICorner")
-local AlphaX = Instance.new("TextButton")
+local LumberTycoon2 = Instance.new("TextButton")
 local UICorner_28 = Instance.new("UICorner")
-local InfiniteYield = Instance.new("TextButton")
+local AlphaX = Instance.new("TextButton")
 local UICorner_29 = Instance.new("UICorner")
-local CMDX = Instance.new("TextButton")
+local InfiniteYield = Instance.new("TextButton")
 local UICorner_30 = Instance.new("UICorner")
-local MurderMystery2 = Instance.new("TextButton")
+local CMDX = Instance.new("TextButton")
 local UICorner_31 = Instance.new("UICorner")
-local ShindoLifeAutoFarm = Instance.new("TextButton")
+local MurderMystery2 = Instance.new("TextButton")
 local UICorner_32 = Instance.new("UICorner")
-local DaHoodAutoFarm = Instance.new("TextButton")
+local ShindoLifeAutoFarm = Instance.new("TextButton")
 local UICorner_33 = Instance.new("UICorner")
-local ScriptsPage2 = Instance.new("TextButton")
+local DaHoodAutoFarm = Instance.new("TextButton")
 local UICorner_34 = Instance.new("UICorner")
-local Page2 = Instance.new("Frame")
+local ScriptsPage2 = Instance.new("TextButton")
 local UICorner_35 = Instance.new("UICorner")
+local Page2 = Instance.new("Frame")
+local UICorner_36 = Instance.new("UICorner")
 local UIGradient_4 = Instance.new("UIGradient")
 local Title_3 = Instance.new("TextLabel")
-local UICorner_36 = Instance.new("UICorner")
-local BuildABoat = Instance.new("TextButton")
 local UICorner_37 = Instance.new("UICorner")
-local ClosePage2 = Instance.new("TextButton")
+local BuildABoat = Instance.new("TextButton")
 local UICorner_38 = Instance.new("UICorner")
-local Skywars = Instance.new("TextButton")
+local ClosePage2 = Instance.new("TextButton")
 local UICorner_39 = Instance.new("UICorner")
-local JailBreak = Instance.new("TextButton")
+local Skywars = Instance.new("TextButton")
 local UICorner_40 = Instance.new("UICorner")
-local JailBreakAutoArrest = Instance.new("TextButton")
+local JailBreak = Instance.new("TextButton")
 local UICorner_41 = Instance.new("UICorner")
-local TowerOfHell = Instance.new("TextButton")
+local JailBreakAutoArrest = Instance.new("TextButton")
 local UICorner_42 = Instance.new("UICorner")
-local AdoptMe = Instance.new("TextButton")
+local TowerOfHell = Instance.new("TextButton")
 local UICorner_43 = Instance.new("UICorner")
-local DaHood = Instance.new("TextButton")
+local AdoptMe = Instance.new("TextButton")
 local UICorner_44 = Instance.new("UICorner")
-local Page3Open = Instance.new("TextButton")
+local DaHood = Instance.new("TextButton")
 local UICorner_45 = Instance.new("UICorner")
-local Page3 = Instance.new("Frame")
+local Page3Open = Instance.new("TextButton")
 local UICorner_46 = Instance.new("UICorner")
-local Title_4 = Instance.new("TextLabel")
+local Page3 = Instance.new("Frame")
 local UICorner_47 = Instance.new("UICorner")
-local DaHood2 = Instance.new("TextButton")
+local Title_4 = Instance.new("TextLabel")
 local UICorner_48 = Instance.new("UICorner")
-local ClosePage3 = Instance.new("TextButton")
+local DaHood2 = Instance.new("TextButton")
 local UICorner_49 = Instance.new("UICorner")
+local ClosePage3 = Instance.new("TextButton")
+local UICorner_50 = Instance.new("UICorner")
 local UIGradient_5 = Instance.new("UIGradient")
 local LumberTycoon2Dupe = Instance.new("TextButton")
-local UICorner_50 = Instance.new("UICorner")
+local UICorner_51 = Instance.new("UICorner")
 local Home = Instance.new("Frame")
 local UIGradient_6 = Instance.new("UIGradient")
-local UICorner_51 = Instance.new("UICorner")
-local About = Instance.new("TextLabel")
 local UICorner_52 = Instance.new("UICorner")
-local Title_5 = Instance.new("TextLabel")
+local About = Instance.new("TextLabel")
 local UICorner_53 = Instance.new("UICorner")
+local Title_5 = Instance.new("TextLabel")
+local UICorner_54 = Instance.new("UICorner")
 local Pages = Instance.new("Frame")
 local Home_2 = Instance.new("TextButton")
-local UICorner_54 = Instance.new("UICorner")
-local Scripts_2 = Instance.new("TextButton")
 local UICorner_55 = Instance.new("UICorner")
-local Player_2 = Instance.new("TextButton")
+local Scripts_2 = Instance.new("TextButton")
 local UICorner_56 = Instance.new("UICorner")
+local Player_2 = Instance.new("TextButton")
 local UICorner_57 = Instance.new("UICorner")
+local UICorner_58 = Instance.new("UICorner")
+local TrialGUI = Instance.new("Frame")
+local Home_3 = Instance.new("Frame")
+local About_2 = Instance.new("TextLabel")
+local UICorner_59 = Instance.new("UICorner")
+local DiscordInvite_2 = Instance.new("TextButton")
+local UICorner_60 = Instance.new("UICorner")
+local UICorner_61 = Instance.new("UICorner")
+local UIGradient_7 = Instance.new("UIGradient")
+local Title_6 = Instance.new("TextLabel")
+local UICorner_62 = Instance.new("UICorner")
+local Player_3 = Instance.new("Frame")
+local UICorner_63 = Instance.new("UICorner")
+local UIGradient_8 = Instance.new("UIGradient")
+local SpeedApply_2 = Instance.new("TextButton")
+local UICorner_64 = Instance.new("UICorner")
+local SpeedText_2 = Instance.new("TextBox")
+local UICorner_65 = Instance.new("UICorner")
+local Title_7 = Instance.new("TextLabel")
+local UICorner_66 = Instance.new("UICorner")
+local JumpApply_2 = Instance.new("TextButton")
+local UICorner_67 = Instance.new("UICorner")
+local JumpText_2 = Instance.new("TextBox")
+local UICorner_68 = Instance.new("UICorner")
+local NoClip_2 = Instance.new("TextButton")
+local UICorner_69 = Instance.new("UICorner")
+local Flight_2 = Instance.new("TextButton")
+local UICorner_70 = Instance.new("UICorner")
+local Bugs = Instance.new("TextLabel")
+local UICorner_71 = Instance.new("UICorner")
+local DontClick = Instance.new("TextButton")
+local UICorner_72 = Instance.new("UICorner")
+local Scripts_3 = Instance.new("Frame")
+local UICorner_73 = Instance.new("UICorner")
+local UIGradient_9 = Instance.new("UIGradient")
+local Title_8 = Instance.new("TextLabel")
+local UICorner_74 = Instance.new("UICorner")
+local OwlHub_2 = Instance.new("TextButton")
+local UICorner_75 = Instance.new("UICorner")
+local InfiniteYield_2 = Instance.new("TextButton")
+local UICorner_76 = Instance.new("UICorner")
+local AdoptMe_2 = Instance.new("TextButton")
+local UICorner_77 = Instance.new("UICorner")
+local TowerOfHell_2 = Instance.new("TextButton")
+local UICorner_78 = Instance.new("UICorner")
+local SkyWars = Instance.new("TextButton")
+local UICorner_79 = Instance.new("UICorner")
+local CMDX_2 = Instance.new("TextButton")
+local UICorner_80 = Instance.new("UICorner")
+local PremiumInfo = Instance.new("TextLabel")
+local UICorner_81 = Instance.new("UICorner")
+local DontClickMe = Instance.new("TextButton")
+local UICorner_82 = Instance.new("UICorner")
+local Pages_2 = Instance.new("Frame")
+local Home_4 = Instance.new("TextButton")
+local UICorner_83 = Instance.new("UICorner")
+local Scripts_4 = Instance.new("TextButton")
+local UICorner_84 = Instance.new("UICorner")
+local Player_4 = Instance.new("TextButton")
+local UICorner_85 = Instance.new("UICorner")
+local UICorner_86 = Instance.new("UICorner")
 
 --Properties:
 
@@ -262,16 +324,32 @@ DiscordInvite.TextWrapped = true
 
 UICorner_8.Parent = DiscordInvite
 
+Free.Name = "Free"
+Free.Parent = LoginGUI
+Free.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Free.BackgroundTransparency = 0.800
+Free.Position = UDim2.new(0.80564785, 0, 0.221212119, 0)
+Free.Rotation = 25.000
+Free.Size = UDim2.new(0, 110, 0, 39)
+Free.Font = Enum.Font.TitilliumWeb
+Free.Text = "For free version leave everything clear and click login!"
+Free.TextColor3 = Color3.fromRGB(255, 0, 0)
+Free.TextScaled = true
+Free.TextSize = 14.000
+Free.TextWrapped = true
+
+UICorner_9.Parent = Free
+
 PremiumGUI.Name = "PremiumGUI"
 PremiumGUI.Parent = ScreenGui
 PremiumGUI.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
 PremiumGUI.BackgroundTransparency = 1.000
 PremiumGUI.BorderColor3 = Color3.fromRGB(0, 0, 0)
-PremiumGUI.Position = UDim2.new(0.743718565, 0, 0.730631709, 0)
+PremiumGUI.Position = UDim2.new(0.742999971, 0, 0.731000006, 0)
 PremiumGUI.Size = UDim2.new(0, 408, 0, 226)
 PremiumGUI.Visible = false
 
-UICorner_9.Parent = PremiumGUI
+UICorner_10.Parent = PremiumGUI
 
 Player.Name = "Player"
 Player.Parent = PremiumGUI
@@ -282,7 +360,7 @@ Player.Visible = false
 UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
 UIGradient_2.Parent = Player
 
-UICorner_10.Parent = Player
+UICorner_11.Parent = Player
 
 Title.Name = "Title"
 Title.Parent = Player
@@ -296,7 +374,7 @@ Title.TextScaled = true
 Title.TextSize = 14.000
 Title.TextWrapped = true
 
-UICorner_11.Parent = Title
+UICorner_12.Parent = Title
 
 SpeedApply.Name = "SpeedApply"
 SpeedApply.Parent = Player
@@ -311,7 +389,7 @@ SpeedApply.TextScaled = true
 SpeedApply.TextSize = 14.000
 SpeedApply.TextWrapped = true
 
-UICorner_12.Parent = SpeedApply
+UICorner_13.Parent = SpeedApply
 
 SpeedText.Name = "SpeedText"
 SpeedText.Parent = Player
@@ -328,7 +406,7 @@ SpeedText.TextScaled = true
 SpeedText.TextSize = 14.000
 SpeedText.TextWrapped = true
 
-UICorner_13.Parent = SpeedText
+UICorner_14.Parent = SpeedText
 
 JumpText.Name = "JumpText"
 JumpText.Parent = Player
@@ -345,7 +423,7 @@ JumpText.TextScaled = true
 JumpText.TextSize = 14.000
 JumpText.TextWrapped = true
 
-UICorner_14.Parent = JumpText
+UICorner_15.Parent = JumpText
 
 JumpApply.Name = "JumpApply"
 JumpApply.Parent = Player
@@ -360,7 +438,7 @@ JumpApply.TextScaled = true
 JumpApply.TextSize = 14.000
 JumpApply.TextWrapped = true
 
-UICorner_15.Parent = JumpApply
+UICorner_16.Parent = JumpApply
 
 Flight.Name = "Flight"
 Flight.Parent = Player
@@ -375,7 +453,7 @@ Flight.TextScaled = true
 Flight.TextSize = 14.000
 Flight.TextWrapped = true
 
-UICorner_16.Parent = Flight
+UICorner_17.Parent = Flight
 
 NoClip.Name = "NoClip"
 NoClip.Parent = Player
@@ -389,7 +467,7 @@ NoClip.TextColor3 = Color3.fromRGB(0, 0, 0)
 NoClip.TextSize = 23.000
 NoClip.TextWrapped = true
 
-UICorner_17.Parent = NoClip
+UICorner_18.Parent = NoClip
 
 InfiniteJump.Name = "InfiniteJump"
 InfiniteJump.Parent = Player
@@ -404,7 +482,7 @@ InfiniteJump.TextScaled = true
 InfiniteJump.TextSize = 14.000
 InfiniteJump.TextWrapped = true
 
-UICorner_18.Parent = InfiniteJump
+UICorner_19.Parent = InfiniteJump
 
 ClickTP.Name = "ClickTP"
 ClickTP.Parent = Player
@@ -419,7 +497,7 @@ ClickTP.TextScaled = true
 ClickTP.TextSize = 14.000
 ClickTP.TextWrapped = true
 
-UICorner_19.Parent = ClickTP
+UICorner_20.Parent = ClickTP
 
 BTools.Name = "BTools"
 BTools.Parent = Player
@@ -433,7 +511,7 @@ BTools.TextColor3 = Color3.fromRGB(0, 0, 0)
 BTools.TextSize = 24.000
 BTools.TextWrapped = true
 
-UICorner_20.Parent = BTools
+UICorner_21.Parent = BTools
 
 Scripts.Name = "Scripts"
 Scripts.Parent = PremiumGUI
@@ -458,9 +536,9 @@ Title_2.TextScaled = true
 Title_2.TextSize = 14.000
 Title_2.TextWrapped = true
 
-UICorner_21.Parent = Title_2
+UICorner_22.Parent = Title_2
 
-UICorner_22.Parent = Scripts
+UICorner_23.Parent = Scripts
 
 DarkHub.Name = "DarkHub"
 DarkHub.Parent = Scripts
@@ -475,7 +553,7 @@ DarkHub.TextScaled = true
 DarkHub.TextSize = 14.000
 DarkHub.TextWrapped = true
 
-UICorner_23.Parent = DarkHub
+UICorner_24.Parent = DarkHub
 
 DuckHub.Name = "DuckHub"
 DuckHub.Parent = Scripts
@@ -490,7 +568,7 @@ DuckHub.TextScaled = true
 DuckHub.TextSize = 14.000
 DuckHub.TextWrapped = true
 
-UICorner_24.Parent = DuckHub
+UICorner_25.Parent = DuckHub
 
 UniversalAimbot.Name = "UniversalAimbot"
 UniversalAimbot.Parent = Scripts
@@ -505,7 +583,7 @@ UniversalAimbot.TextScaled = true
 UniversalAimbot.TextSize = 14.000
 UniversalAimbot.TextWrapped = true
 
-UICorner_25.Parent = UniversalAimbot
+UICorner_26.Parent = UniversalAimbot
 
 OwlHub.Name = "OwlHub"
 OwlHub.Parent = Scripts
@@ -520,7 +598,7 @@ OwlHub.TextScaled = true
 OwlHub.TextSize = 14.000
 OwlHub.TextWrapped = true
 
-UICorner_26.Parent = OwlHub
+UICorner_27.Parent = OwlHub
 
 LumberTycoon2.Name = "LumberTycoon2"
 LumberTycoon2.Parent = Scripts
@@ -535,7 +613,7 @@ LumberTycoon2.TextScaled = true
 LumberTycoon2.TextSize = 14.000
 LumberTycoon2.TextWrapped = true
 
-UICorner_27.Parent = LumberTycoon2
+UICorner_28.Parent = LumberTycoon2
 
 AlphaX.Name = "AlphaX"
 AlphaX.Parent = Scripts
@@ -550,7 +628,7 @@ AlphaX.TextScaled = true
 AlphaX.TextSize = 14.000
 AlphaX.TextWrapped = true
 
-UICorner_28.Parent = AlphaX
+UICorner_29.Parent = AlphaX
 
 InfiniteYield.Name = "InfiniteYield"
 InfiniteYield.Parent = Scripts
@@ -565,7 +643,7 @@ InfiniteYield.TextScaled = true
 InfiniteYield.TextSize = 14.000
 InfiniteYield.TextWrapped = true
 
-UICorner_29.Parent = InfiniteYield
+UICorner_30.Parent = InfiniteYield
 
 CMDX.Name = "CMDX"
 CMDX.Parent = Scripts
@@ -579,7 +657,7 @@ CMDX.TextColor3 = Color3.fromRGB(0, 0, 0)
 CMDX.TextSize = 27.000
 CMDX.TextWrapped = true
 
-UICorner_30.Parent = CMDX
+UICorner_31.Parent = CMDX
 
 MurderMystery2.Name = "MurderMystery2"
 MurderMystery2.Parent = Scripts
@@ -594,7 +672,7 @@ MurderMystery2.TextScaled = true
 MurderMystery2.TextSize = 14.000
 MurderMystery2.TextWrapped = true
 
-UICorner_31.Parent = MurderMystery2
+UICorner_32.Parent = MurderMystery2
 
 ShindoLifeAutoFarm.Name = "ShindoLifeAutoFarm"
 ShindoLifeAutoFarm.Parent = Scripts
@@ -609,7 +687,7 @@ ShindoLifeAutoFarm.TextScaled = true
 ShindoLifeAutoFarm.TextSize = 14.000
 ShindoLifeAutoFarm.TextWrapped = true
 
-UICorner_32.Parent = ShindoLifeAutoFarm
+UICorner_33.Parent = ShindoLifeAutoFarm
 
 DaHoodAutoFarm.Name = "DaHoodAutoFarm"
 DaHoodAutoFarm.Parent = Scripts
@@ -624,7 +702,7 @@ DaHoodAutoFarm.TextScaled = true
 DaHoodAutoFarm.TextSize = 14.000
 DaHoodAutoFarm.TextWrapped = true
 
-UICorner_33.Parent = DaHoodAutoFarm
+UICorner_34.Parent = DaHoodAutoFarm
 
 ScriptsPage2.Name = "ScriptsPage2"
 ScriptsPage2.Parent = Scripts
@@ -639,7 +717,7 @@ ScriptsPage2.TextScaled = true
 ScriptsPage2.TextSize = 14.000
 ScriptsPage2.TextWrapped = true
 
-UICorner_34.Parent = ScriptsPage2
+UICorner_35.Parent = ScriptsPage2
 
 Page2.Name = "Page2"
 Page2.Parent = Scripts
@@ -648,7 +726,7 @@ Page2.Position = UDim2.new(0, 0, -0.672566354, 0)
 Page2.Size = UDim2.new(0, 408, 0, 152)
 Page2.Visible = false
 
-UICorner_35.Parent = Page2
+UICorner_36.Parent = Page2
 
 UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
 UIGradient_4.Parent = Page2
@@ -665,7 +743,7 @@ Title_3.TextScaled = true
 Title_3.TextSize = 14.000
 Title_3.TextWrapped = true
 
-UICorner_36.Parent = Title_3
+UICorner_37.Parent = Title_3
 
 BuildABoat.Name = "BuildABoat"
 BuildABoat.Parent = Page2
@@ -680,7 +758,7 @@ BuildABoat.TextScaled = true
 BuildABoat.TextSize = 14.000
 BuildABoat.TextWrapped = true
 
-UICorner_37.Parent = BuildABoat
+UICorner_38.Parent = BuildABoat
 
 ClosePage2.Name = "ClosePage2"
 ClosePage2.Parent = Page2
@@ -692,7 +770,7 @@ ClosePage2.Text = "X"
 ClosePage2.TextColor3 = Color3.fromRGB(0, 0, 0)
 ClosePage2.TextSize = 30.000
 
-UICorner_38.Parent = ClosePage2
+UICorner_39.Parent = ClosePage2
 
 Skywars.Name = "Skywars"
 Skywars.Parent = Page2
@@ -707,7 +785,7 @@ Skywars.TextScaled = true
 Skywars.TextSize = 14.000
 Skywars.TextWrapped = true
 
-UICorner_39.Parent = Skywars
+UICorner_40.Parent = Skywars
 
 JailBreak.Name = "JailBreak"
 JailBreak.Parent = Page2
@@ -722,7 +800,7 @@ JailBreak.TextScaled = true
 JailBreak.TextSize = 14.000
 JailBreak.TextWrapped = true
 
-UICorner_40.Parent = JailBreak
+UICorner_41.Parent = JailBreak
 
 JailBreakAutoArrest.Name = "JailBreakAutoArrest"
 JailBreakAutoArrest.Parent = Page2
@@ -737,7 +815,7 @@ JailBreakAutoArrest.TextScaled = true
 JailBreakAutoArrest.TextSize = 14.000
 JailBreakAutoArrest.TextWrapped = true
 
-UICorner_41.Parent = JailBreakAutoArrest
+UICorner_42.Parent = JailBreakAutoArrest
 
 TowerOfHell.Name = "TowerOfHell"
 TowerOfHell.Parent = Page2
@@ -752,7 +830,7 @@ TowerOfHell.TextScaled = true
 TowerOfHell.TextSize = 14.000
 TowerOfHell.TextWrapped = true
 
-UICorner_42.Parent = TowerOfHell
+UICorner_43.Parent = TowerOfHell
 
 AdoptMe.Name = "AdoptMe"
 AdoptMe.Parent = Page2
@@ -767,7 +845,7 @@ AdoptMe.TextScaled = true
 AdoptMe.TextSize = 14.000
 AdoptMe.TextWrapped = true
 
-UICorner_43.Parent = AdoptMe
+UICorner_44.Parent = AdoptMe
 
 DaHood.Name = "DaHood"
 DaHood.Parent = Page2
@@ -781,7 +859,7 @@ DaHood.TextColor3 = Color3.fromRGB(0, 0, 0)
 DaHood.TextSize = 23.000
 DaHood.TextWrapped = true
 
-UICorner_44.Parent = DaHood
+UICorner_45.Parent = DaHood
 
 Page3Open.Name = "Page3Open"
 Page3Open.Parent = Page2
@@ -796,7 +874,7 @@ Page3Open.TextScaled = true
 Page3Open.TextSize = 14.000
 Page3Open.TextWrapped = true
 
-UICorner_45.Parent = Page3Open
+UICorner_46.Parent = Page3Open
 
 Page3.Name = "Page3"
 Page3.Parent = Page2
@@ -805,7 +883,7 @@ Page3.Position = UDim2.new(0, 0, -1, 0)
 Page3.Size = UDim2.new(0, 408, 0, 152)
 Page3.Visible = false
 
-UICorner_46.Parent = Page3
+UICorner_47.Parent = Page3
 
 Title_4.Name = "Title"
 Title_4.Parent = Page3
@@ -819,7 +897,7 @@ Title_4.TextScaled = true
 Title_4.TextSize = 14.000
 Title_4.TextWrapped = true
 
-UICorner_47.Parent = Title_4
+UICorner_48.Parent = Title_4
 
 DaHood2.Name = "DaHood2"
 DaHood2.Parent = Page3
@@ -834,7 +912,7 @@ DaHood2.TextScaled = true
 DaHood2.TextSize = 14.000
 DaHood2.TextWrapped = true
 
-UICorner_48.Parent = DaHood2
+UICorner_49.Parent = DaHood2
 
 ClosePage3.Name = "ClosePage3"
 ClosePage3.Parent = Page3
@@ -847,7 +925,7 @@ ClosePage3.TextColor3 = Color3.fromRGB(0, 0, 0)
 ClosePage3.TextSize = 27.000
 ClosePage3.TextWrapped = true
 
-UICorner_49.Parent = ClosePage3
+UICorner_50.Parent = ClosePage3
 
 UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
 UIGradient_5.Parent = Page3
@@ -865,7 +943,7 @@ LumberTycoon2Dupe.TextScaled = true
 LumberTycoon2Dupe.TextSize = 14.000
 LumberTycoon2Dupe.TextWrapped = true
 
-UICorner_50.Parent = LumberTycoon2Dupe
+UICorner_51.Parent = LumberTycoon2Dupe
 
 Home.Name = "Home"
 Home.Parent = PremiumGUI
@@ -875,7 +953,7 @@ Home.Size = UDim2.new(0, 408, 0, 226)
 UIGradient_6.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
 UIGradient_6.Parent = Home
 
-UICorner_51.Parent = Home
+UICorner_52.Parent = Home
 
 About.Name = "About"
 About.Parent = Home
@@ -890,7 +968,7 @@ About.TextScaled = true
 About.TextSize = 14.000
 About.TextWrapped = true
 
-UICorner_52.Parent = About
+UICorner_53.Parent = About
 
 Title_5.Name = "Title"
 Title_5.Parent = Home
@@ -904,7 +982,7 @@ Title_5.TextScaled = true
 Title_5.TextSize = 14.000
 Title_5.TextWrapped = true
 
-UICorner_53.Parent = Title_5
+UICorner_54.Parent = Title_5
 
 Pages.Name = "Pages"
 Pages.Parent = PremiumGUI
@@ -928,7 +1006,7 @@ Home_2.TextScaled = true
 Home_2.TextSize = 14.000
 Home_2.TextWrapped = true
 
-UICorner_54.Parent = Home_2
+UICorner_55.Parent = Home_2
 
 Scripts_2.Name = "Scripts"
 Scripts_2.Parent = Pages
@@ -944,7 +1022,7 @@ Scripts_2.TextScaled = true
 Scripts_2.TextSize = 14.000
 Scripts_2.TextWrapped = true
 
-UICorner_55.Parent = Scripts_2
+UICorner_56.Parent = Scripts_2
 
 Player_2.Name = "Player"
 Player_2.Parent = Pages
@@ -960,20 +1038,438 @@ Player_2.TextScaled = true
 Player_2.TextSize = 14.000
 Player_2.TextWrapped = true
 
-UICorner_56.Parent = Player_2
+UICorner_57.Parent = Player_2
 
-UICorner_57.Parent = Pages
+UICorner_58.Parent = Pages
+
+TrialGUI.Name = "TrialGUI"
+TrialGUI.Parent = ScreenGui
+TrialGUI.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+TrialGUI.BackgroundTransparency = 1.000
+TrialGUI.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TrialGUI.Position = UDim2.new(0.742999971, 0, 0.731000006, 0)
+TrialGUI.Size = UDim2.new(0, 408, 0, 226)
+TrialGUI.Visible = false
+
+Home_3.Name = "Home"
+Home_3.Parent = TrialGUI
+Home_3.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+Home_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Home_3.Position = UDim2.new(0.0028039217, 0, -0.00351327658, 0)
+Home_3.Size = UDim2.new(0, 408, 0, 226)
+
+About_2.Name = "About"
+About_2.Parent = Home_3
+About_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+About_2.BackgroundTransparency = 0.800
+About_2.Position = UDim2.new(0.245098025, 0, 0.234513268, 0)
+About_2.Size = UDim2.new(0, 284, 0, 119)
+About_2.Font = Enum.Font.TitilliumWeb
+About_2.Text = ""
+About_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+About_2.TextScaled = true
+About_2.TextSize = 14.000
+About_2.TextWrapped = true
+
+UICorner_59.Parent = About_2
+
+DiscordInvite_2.Name = "DiscordInvite"
+DiscordInvite_2.Parent = Home_3
+DiscordInvite_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+DiscordInvite_2.BackgroundTransparency = 0.800
+DiscordInvite_2.Position = UDim2.new(0.414215684, 0, 0.836283207, 0)
+DiscordInvite_2.Size = UDim2.new(0, 133, 0, 19)
+DiscordInvite_2.Font = Enum.Font.TitilliumWeb
+DiscordInvite_2.Text = "Click to copy Discord!"
+DiscordInvite_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+DiscordInvite_2.TextScaled = true
+DiscordInvite_2.TextSize = 14.000
+DiscordInvite_2.TextWrapped = true
+
+UICorner_60.Parent = DiscordInvite_2
+
+UICorner_61.Parent = Home_3
+
+UIGradient_7.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
+UIGradient_7.Parent = Home_3
+
+Title_6.Name = "Title"
+Title_6.Parent = Home_3
+Title_6.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Title_6.BackgroundTransparency = 0.800
+Title_6.Size = UDim2.new(0, 408, 0, 41)
+Title_6.Font = Enum.Font.TitilliumWeb
+Title_6.Text = "Reaper Hub"
+Title_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+Title_6.TextScaled = true
+Title_6.TextSize = 14.000
+Title_6.TextWrapped = true
+
+UICorner_62.Parent = Title_6
+
+Player_3.Name = "Player"
+Player_3.Parent = TrialGUI
+Player_3.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+Player_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Player_3.Position = UDim2.new(0.00280402694, 0, -0.00351330242, 0)
+Player_3.Size = UDim2.new(0, 407, 0, 225)
+Player_3.Visible = false
+
+UICorner_63.Parent = Player_3
+
+UIGradient_8.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
+UIGradient_8.Parent = Player_3
+
+SpeedApply_2.Name = "SpeedApply"
+SpeedApply_2.Parent = Player_3
+SpeedApply_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+SpeedApply_2.BackgroundTransparency = 0.800
+SpeedApply_2.Position = UDim2.new(0.24570024, 0, 0.573333323, 0)
+SpeedApply_2.Size = UDim2.new(0, 72, 0, 43)
+SpeedApply_2.Font = Enum.Font.TitilliumWeb
+SpeedApply_2.Text = "Apply Speed"
+SpeedApply_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+SpeedApply_2.TextScaled = true
+SpeedApply_2.TextSize = 14.000
+SpeedApply_2.TextWrapped = true
+
+UICorner_64.Parent = SpeedApply_2
+
+SpeedText_2.Name = "SpeedText"
+SpeedText_2.Parent = Player_3
+SpeedText_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+SpeedText_2.BackgroundTransparency = 0.800
+SpeedText_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SpeedText_2.Position = UDim2.new(0.24570024, 0, 0.271111131, 0)
+SpeedText_2.Size = UDim2.new(0, 72, 0, 43)
+SpeedText_2.Font = Enum.Font.TitilliumWeb
+SpeedText_2.PlaceholderText = "(Speed)"
+SpeedText_2.Text = ""
+SpeedText_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+SpeedText_2.TextScaled = true
+SpeedText_2.TextSize = 14.000
+SpeedText_2.TextWrapped = true
+
+UICorner_65.Parent = SpeedText_2
+
+Title_7.Name = "Title"
+Title_7.Parent = Player_3
+Title_7.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Title_7.BackgroundTransparency = 0.800
+Title_7.Size = UDim2.new(0, 408, 0, 41)
+Title_7.Font = Enum.Font.TitilliumWeb
+Title_7.Text = "Reaper Hub"
+Title_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+Title_7.TextScaled = true
+Title_7.TextSize = 14.000
+Title_7.TextWrapped = true
+
+UICorner_66.Parent = Title_7
+
+JumpApply_2.Name = "JumpApply"
+JumpApply_2.Parent = Player_3
+JumpApply_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+JumpApply_2.BackgroundTransparency = 0.800
+JumpApply_2.Position = UDim2.new(0.515970528, 0, 0.573333323, 0)
+JumpApply_2.Size = UDim2.new(0, 72, 0, 43)
+JumpApply_2.Font = Enum.Font.TitilliumWeb
+JumpApply_2.Text = "Apply Jump"
+JumpApply_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+JumpApply_2.TextScaled = true
+JumpApply_2.TextSize = 14.000
+JumpApply_2.TextWrapped = true
+
+UICorner_67.Parent = JumpApply_2
+
+JumpText_2.Name = "JumpText"
+JumpText_2.Parent = Player_3
+JumpText_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+JumpText_2.BackgroundTransparency = 0.800
+JumpText_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+JumpText_2.Position = UDim2.new(0.515970469, 0, 0.271111101, 0)
+JumpText_2.Size = UDim2.new(0, 72, 0, 43)
+JumpText_2.Font = Enum.Font.TitilliumWeb
+JumpText_2.PlaceholderText = "(Jump)"
+JumpText_2.Text = ""
+JumpText_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+JumpText_2.TextScaled = true
+JumpText_2.TextSize = 14.000
+JumpText_2.TextWrapped = true
+
+UICorner_68.Parent = JumpText_2
+
+NoClip_2.Name = "NoClip"
+NoClip_2.Parent = Player_3
+NoClip_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+NoClip_2.BackgroundTransparency = 0.800
+NoClip_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+NoClip_2.Position = UDim2.new(0.759213746, 0, 0.271111101, 0)
+NoClip_2.Size = UDim2.new(0, 72, 0, 43)
+NoClip_2.Font = Enum.Font.TitilliumWeb
+NoClip_2.Text = "NoClip(C)"
+NoClip_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+NoClip_2.TextSize = 26.000
+NoClip_2.TextWrapped = true
+
+UICorner_69.Parent = NoClip_2
+
+Flight_2.Name = "Flight"
+Flight_2.Parent = Player_3
+Flight_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Flight_2.BackgroundTransparency = 0.800
+Flight_2.Position = UDim2.new(0.759213746, 0, 0.573333323, 0)
+Flight_2.Size = UDim2.new(0, 72, 0, 43)
+Flight_2.Font = Enum.Font.TitilliumWeb
+Flight_2.Text = "Flight(V)"
+Flight_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Flight_2.TextSize = 25.000
+Flight_2.TextWrapped = true
+
+UICorner_70.Parent = Flight_2
+
+Bugs.Name = "Bugs"
+Bugs.Parent = Player_3
+Bugs.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Bugs.BackgroundTransparency = 0.800
+Bugs.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Bugs.Position = UDim2.new(0.24570024, 0, 0.857777774, 0)
+Bugs.Size = UDim2.new(0, 281, 0, 22)
+Bugs.Font = Enum.Font.SpecialElite
+Bugs.Text = "Found bugs? DM me ReaperHacks#0001"
+Bugs.TextColor3 = Color3.fromRGB(0, 0, 0)
+Bugs.TextSize = 14.000
+
+UICorner_71.Parent = Bugs
+
+DontClick.Name = "DontClick"
+DontClick.Parent = Player_3
+DontClick.BackgroundColor3 = Color3.fromRGB(59, 59, 59)
+DontClick.BorderColor3 = Color3.fromRGB(0, 0, 0)
+DontClick.Position = UDim2.new(0.24570024, 0, 0.857777774, 0)
+DontClick.Size = UDim2.new(0, 281, 0, 22)
+DontClick.Font = Enum.Font.TitilliumWeb
+DontClick.Text = "Don't Click me :)"
+DontClick.TextColor3 = Color3.fromRGB(0, 0, 0)
+DontClick.TextScaled = true
+DontClick.TextSize = 14.000
+DontClick.TextWrapped = true
+
+UICorner_72.Parent = DontClick
+
+Scripts_3.Name = "Scripts"
+Scripts_3.Parent = TrialGUI
+Scripts_3.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+Scripts_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Scripts_3.Position = UDim2.new(0.00300000003, 0, -0.00400000019, 0)
+Scripts_3.Size = UDim2.new(0, 407, 0, 225)
+Scripts_3.Visible = false
+
+UICorner_73.Parent = Scripts_3
+
+UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
+UIGradient_9.Parent = Scripts_3
+
+Title_8.Name = "Title"
+Title_8.Parent = Scripts_3
+Title_8.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Title_8.BackgroundTransparency = 0.800
+Title_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Title_8.Size = UDim2.new(0, 408, 0, 41)
+Title_8.Font = Enum.Font.TitilliumWeb
+Title_8.Text = "Reaper Hub"
+Title_8.TextColor3 = Color3.fromRGB(0, 0, 0)
+Title_8.TextScaled = true
+Title_8.TextSize = 14.000
+Title_8.TextWrapped = true
+
+UICorner_74.Parent = Title_8
+
+OwlHub_2.Name = "OwlHub"
+OwlHub_2.Parent = Scripts_3
+OwlHub_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+OwlHub_2.BackgroundTransparency = 0.800
+OwlHub_2.Position = UDim2.new(0.235000044, 0, 0.242999941, 0)
+OwlHub_2.Size = UDim2.new(0, 78, 0, 50)
+OwlHub_2.Font = Enum.Font.TitilliumWeb
+OwlHub_2.Text = "Owl Hub"
+OwlHub_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+OwlHub_2.TextSize = 26.000
+OwlHub_2.TextWrapped = true
+
+UICorner_75.Parent = OwlHub_2
+
+InfiniteYield_2.Name = "InfiniteYield"
+InfiniteYield_2.Parent = Scripts_3
+InfiniteYield_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+InfiniteYield_2.BackgroundTransparency = 0.800
+InfiniteYield_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+InfiniteYield_2.Position = UDim2.new(0.50859952, 0, 0.239999995, 0)
+InfiniteYield_2.Size = UDim2.new(0, 78, 0, 50)
+InfiniteYield_2.Font = Enum.Font.TitilliumWeb
+InfiniteYield_2.Text = "Infinite Yield"
+InfiniteYield_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+InfiniteYield_2.TextSize = 18.000
+InfiniteYield_2.TextWrapped = true
+
+UICorner_76.Parent = InfiniteYield_2
+
+AdoptMe_2.Name = "AdoptMe"
+AdoptMe_2.Parent = Scripts_3
+AdoptMe_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+AdoptMe_2.BackgroundTransparency = 0.800
+AdoptMe_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+AdoptMe_2.Position = UDim2.new(0.764127731, 0, 0.239999995, 0)
+AdoptMe_2.Size = UDim2.new(0, 78, 0, 50)
+AdoptMe_2.Font = Enum.Font.TitilliumWeb
+AdoptMe_2.Text = "Adopt Me"
+AdoptMe_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+AdoptMe_2.TextSize = 24.000
+AdoptMe_2.TextWrapped = true
+
+UICorner_77.Parent = AdoptMe_2
+
+TowerOfHell_2.Name = "TowerOfHell"
+TowerOfHell_2.Parent = Scripts_3
+TowerOfHell_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+TowerOfHell_2.BackgroundTransparency = 0.800
+TowerOfHell_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TowerOfHell_2.Position = UDim2.new(0.233415231, 0, 0.568888903, 0)
+TowerOfHell_2.Size = UDim2.new(0, 78, 0, 50)
+TowerOfHell_2.Font = Enum.Font.TitilliumWeb
+TowerOfHell_2.Text = "Tower Of Hell"
+TowerOfHell_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TowerOfHell_2.TextSize = 18.000
+TowerOfHell_2.TextWrapped = true
+
+UICorner_78.Parent = TowerOfHell_2
+
+SkyWars.Name = "SkyWars"
+SkyWars.Parent = Scripts_3
+SkyWars.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+SkyWars.BackgroundTransparency = 0.800
+SkyWars.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SkyWars.Position = UDim2.new(0.50859952, 0, 0.568888903, 0)
+SkyWars.Size = UDim2.new(0, 78, 0, 50)
+SkyWars.Font = Enum.Font.TitilliumWeb
+SkyWars.Text = "Sky Wars"
+SkyWars.TextColor3 = Color3.fromRGB(0, 0, 0)
+SkyWars.TextSize = 24.000
+SkyWars.TextWrapped = true
+
+UICorner_79.Parent = SkyWars
+
+CMDX_2.Name = "CMDX"
+CMDX_2.Parent = Scripts_3
+CMDX_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+CMDX_2.BackgroundTransparency = 0.800
+CMDX_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CMDX_2.Position = UDim2.new(0.764127731, 0, 0.568888903, 0)
+CMDX_2.Size = UDim2.new(0, 78, 0, 50)
+CMDX_2.Font = Enum.Font.TitilliumWeb
+CMDX_2.Text = "CMD X"
+CMDX_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+CMDX_2.TextSize = 20.000
+
+UICorner_80.Parent = CMDX_2
+
+PremiumInfo.Name = "PremiumInfo"
+PremiumInfo.Parent = Scripts_3
+PremiumInfo.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+PremiumInfo.BackgroundTransparency = 0.800
+PremiumInfo.BorderColor3 = Color3.fromRGB(0, 0, 0)
+PremiumInfo.Position = UDim2.new(0.233415231, 0, 0.857777774, 0)
+PremiumInfo.Size = UDim2.new(0, 294, 0, 26)
+PremiumInfo.Font = Enum.Font.TitilliumWeb
+PremiumInfo.Text = "Hi there! When/if you buy Premium ALOT more features will be unlocked!"
+PremiumInfo.TextColor3 = Color3.fromRGB(255, 0, 0)
+PremiumInfo.TextScaled = true
+PremiumInfo.TextSize = 14.000
+PremiumInfo.TextWrapped = true
+
+UICorner_81.Parent = PremiumInfo
+
+DontClickMe.Name = "DontClickMe"
+DontClickMe.Parent = Scripts_3
+DontClickMe.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+DontClickMe.Position = UDim2.new(0.233415231, 0, 0.857777774, 0)
+DontClickMe.Size = UDim2.new(0, 294, 0, 26)
+DontClickMe.Font = Enum.Font.TitilliumWeb
+DontClickMe.Text = "Don't click me :)"
+DontClickMe.TextColor3 = Color3.fromRGB(0, 0, 0)
+DontClickMe.TextScaled = true
+DontClickMe.TextSize = 14.000
+DontClickMe.TextWrapped = true
+
+UICorner_82.Parent = DontClickMe
+
+Pages_2.Name = "Pages"
+Pages_2.Parent = TrialGUI
+Pages_2.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Pages_2.BackgroundTransparency = 1.000
+Pages_2.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Pages_2.Position = UDim2.new(0.0255061127, 0, 0.28318584, 0)
+Pages_2.Size = UDim2.new(0, 66, 0, 141)
+
+Home_4.Name = "Home"
+Home_4.Parent = Pages_2
+Home_4.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Home_4.BackgroundTransparency = 0.800
+Home_4.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Home_4.Position = UDim2.new(0.0909090936, 0, -0.000577453524, 0)
+Home_4.Size = UDim2.new(0, 54, 0, 37)
+Home_4.Font = Enum.Font.TitilliumWeb
+Home_4.Text = "Home"
+Home_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Home_4.TextScaled = true
+Home_4.TextSize = 14.000
+Home_4.TextWrapped = true
+
+UICorner_83.Parent = Home_4
+
+Scripts_4.Name = "Scripts"
+Scripts_4.Parent = Pages_2
+Scripts_4.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Scripts_4.BackgroundTransparency = 0.800
+Scripts_4.BorderColor3 = Color3.fromRGB(255, 247, 248)
+Scripts_4.Position = UDim2.new(0.0909090936, 0, 0.736970067, 0)
+Scripts_4.Size = UDim2.new(0, 54, 0, 37)
+Scripts_4.Font = Enum.Font.TitilliumWeb
+Scripts_4.Text = "Scripts"
+Scripts_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Scripts_4.TextScaled = true
+Scripts_4.TextSize = 14.000
+Scripts_4.TextWrapped = true
+
+UICorner_84.Parent = Scripts_4
+
+Player_4.Name = "Player"
+Player_4.Parent = Pages_2
+Player_4.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Player_4.BackgroundTransparency = 0.800
+Player_4.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Player_4.Position = UDim2.new(0.0909090936, 0, 0.363021523, 0)
+Player_4.Size = UDim2.new(0, 54, 0, 37)
+Player_4.Font = Enum.Font.TitilliumWeb
+Player_4.Text = "Player"
+Player_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Player_4.TextScaled = true
+Player_4.TextSize = 14.000
+Player_4.TextWrapped = true
+
+UICorner_85.Parent = Player_4
+
+UICorner_86.Parent = Pages_2
 
 -- Scripts:
 
-local function VNNYP_fake_script() -- LoginGUI.Draggable 
+local function PRMND_fake_script() -- LoginGUI.Draggable 
 	local script = Instance.new('LocalScript', LoginGUI)
 
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(VNNYP_fake_script)()
-local function FWAA_fake_script() -- LoginGUI.LoginScript 
+coroutine.wrap(PRMND_fake_script)()
+local function SGHSV_fake_script() -- LoginGUI.LoginScript 
 	local script = Instance.new('LocalScript', LoginGUI)
 
 	script.Parent.Login.MouseButton1Click:Connect(function()
@@ -1007,38 +1503,39 @@ local function FWAA_fake_script() -- LoginGUI.LoginScript
 		elseif script.Parent.Username.Text == "Iamtoopogidoti" and script.Parent.Password.Text == "q9q+$D3KfwxbbfuuT&j!" and script.Parent.Discord.Text == "5l1927v" then
 			script.Parent.Parent.PremiumGUI.Visible = true
 			script.Parent.Parent.LoginGUI.Visible = false
+		elseif script.Parent.Username.Text == "" and script.Parent.Password.Text == "" and script.Parent.Discord.Text == "" then
+			script.Parent.Parent.TrialGUI.Visible = true
+			script.Parent.Parent.LoginGUI.Visible = false
 		else
 			script.Parent.Username.Text = "Hmmm... seems something is wrong with this login."
 		end
 	end)
 end
-coroutine.wrap(FWAA_fake_script)()
-local function ILKLVZP_fake_script() -- LoginGUI.DiscordInviteScript 
+coroutine.wrap(SGHSV_fake_script)()
+local function APGJFNK_fake_script() -- LoginGUI.DiscordInviteScript 
 	local script = Instance.new('LocalScript', LoginGUI)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.DiscordInvite.MouseButton1Click:Connect(function()
-		if clipboard then
-			setclipboard('https://discord.gg/HJabVmd')
-		end
+		setclipboard('https://discord.gg/HJabVmd')
 	end)
 end
-coroutine.wrap(ILKLVZP_fake_script)()
-local function WEGZDTA_fake_script() -- ScreenGui.LoginTween 
+coroutine.wrap(APGJFNK_fake_script)()
+local function BGNO_fake_script() -- ScreenGui.LoginTween 
 	local script = Instance.new('Script', ScreenGui)
 
 	local object = script.Parent.LoginGUI
 	object:TweenPosition(UDim2.new(0.308,0,0.25,0),"Out","Bounce",1.5)
 end
-coroutine.wrap(WEGZDTA_fake_script)()
-local function HTZHUMY_fake_script() -- PremiumGUI.Script 
+coroutine.wrap(BGNO_fake_script)()
+local function BKMGPZ_fake_script() -- PremiumGUI.Script 
 	local script = Instance.new('Script', PremiumGUI)
 
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(HTZHUMY_fake_script)()
-local function TROCHF_fake_script() -- Player.SpeedScript 
+coroutine.wrap(BKMGPZ_fake_script)()
+local function LGJWFD_fake_script() -- Player.SpeedScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -1046,8 +1543,8 @@ local function TROCHF_fake_script() -- Player.SpeedScript
 		player.Character.Humanoid.WalkSpeed = script.Parent.SpeedText.Text
 	end)
 end
-coroutine.wrap(TROCHF_fake_script)()
-local function RSUYX_fake_script() -- Player.JumpScript 
+coroutine.wrap(LGJWFD_fake_script)()
+local function WYVMXDM_fake_script() -- Player.JumpScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -1055,8 +1552,8 @@ local function RSUYX_fake_script() -- Player.JumpScript
 		player.Character.Humanoid.JumpPower = script.Parent.JumpText.Text
 	end)
 end
-coroutine.wrap(RSUYX_fake_script)()
-local function PZNR_fake_script() -- Player.FlightScript 
+coroutine.wrap(WYVMXDM_fake_script)()
+local function QNLPB_fake_script() -- Player.FlightScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -1145,8 +1642,8 @@ local function PZNR_fake_script() -- Player.FlightScript
 	end)
 	
 end
-coroutine.wrap(PZNR_fake_script)()
-local function JGNA_fake_script() -- Player.NoClipScript 
+coroutine.wrap(QNLPB_fake_script)()
+local function FQFI_fake_script() -- Player.NoClipScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -1171,8 +1668,8 @@ local function JGNA_fake_script() -- Player.NoClipScript
 	end)
 	
 end
-coroutine.wrap(JGNA_fake_script)()
-local function JMDYA_fake_script() -- Player.InfiniteJumpScript 
+coroutine.wrap(FQFI_fake_script)()
+local function WHRWMTG_fake_script() -- Player.InfiniteJumpScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -1185,8 +1682,8 @@ local function JMDYA_fake_script() -- Player.InfiniteJumpScript
 		end)
 	end)
 end
-coroutine.wrap(JMDYA_fake_script)()
-local function OVDHITB_fake_script() -- Player.ClickTPScript 
+coroutine.wrap(WHRWMTG_fake_script)()
+local function DTKUV_fake_script() -- Player.ClickTPScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -1208,8 +1705,8 @@ local function OVDHITB_fake_script() -- Player.ClickTPScript
 		tool.Parent = plr.Backpack
 	end)
 end
-coroutine.wrap(OVDHITB_fake_script)()
-local function LRRDJ_fake_script() -- Player.BToolsScript 
+coroutine.wrap(DTKUV_fake_script)()
+local function KPDMFZV_fake_script() -- Player.BToolsScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -1226,8 +1723,8 @@ local function LRRDJ_fake_script() -- Player.BToolsScript
 		tool5.BinType = "Grab"
 	end)
 end
-coroutine.wrap(LRRDJ_fake_script)()
-local function FIELEE_fake_script() -- Scripts.DarkHubScript 
+coroutine.wrap(KPDMFZV_fake_script)()
+local function TWLOII_fake_script() -- Scripts.DarkHubScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1235,8 +1732,8 @@ local function FIELEE_fake_script() -- Scripts.DarkHubScript
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/NougatBitz/DuckHub/master/Main.lua'))()
 	end)
 end
-coroutine.wrap(FIELEE_fake_script)()
-local function GSNA_fake_script() -- Scripts.DuckHubScript 
+coroutine.wrap(TWLOII_fake_script)()
+local function YDWP_fake_script() -- Scripts.DuckHubScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1244,8 +1741,8 @@ local function GSNA_fake_script() -- Scripts.DuckHubScript
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
 	end)
 end
-coroutine.wrap(GSNA_fake_script)()
-local function ESEKCI_fake_script() -- Scripts.UniversalAimbotScript 
+coroutine.wrap(YDWP_fake_script)()
+local function YSERK_fake_script() -- Scripts.UniversalAimbotScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1253,8 +1750,8 @@ local function ESEKCI_fake_script() -- Scripts.UniversalAimbotScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FunnyTimeOkGood/UniversalAimbot/main/Aimbotyes"))()
 	end)
 end
-coroutine.wrap(ESEKCI_fake_script)()
-local function NPVESI_fake_script() -- Scripts.OwlHubScript 
+coroutine.wrap(YSERK_fake_script)()
+local function JMVT_fake_script() -- Scripts.OwlHubScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1274,8 +1771,8 @@ local function NPVESI_fake_script() -- Scripts.OwlHubScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt"))()
 	end)
 end
-coroutine.wrap(NPVESI_fake_script)()
-local function BPBUBGV_fake_script() -- Scripts.LumberTycoon2Script 
+coroutine.wrap(JMVT_fake_script)()
+local function KHOC_fake_script() -- Scripts.LumberTycoon2Script 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1284,8 +1781,8 @@ local function BPBUBGV_fake_script() -- Scripts.LumberTycoon2Script
 		loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')()
 	end)
 end
-coroutine.wrap(BPBUBGV_fake_script)()
-local function ZKEC_fake_script() -- Scripts.AlphaXScript 
+coroutine.wrap(KHOC_fake_script)()
+local function OOXXSA_fake_script() -- Scripts.AlphaXScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1293,8 +1790,8 @@ local function ZKEC_fake_script() -- Scripts.AlphaXScript
 		loadstring(game:HttpGet("https://drizzy.wtf/PinkX/Script", true))() 'PinkXWinning (PinkX v2)' 
 	end)
 end
-coroutine.wrap(ZKEC_fake_script)()
-local function ZTAN_fake_script() -- Scripts.InfiniteYieldScript 
+coroutine.wrap(OOXXSA_fake_script)()
+local function YGWGCXB_fake_script() -- Scripts.InfiniteYieldScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1302,8 +1799,8 @@ local function ZTAN_fake_script() -- Scripts.InfiniteYieldScript
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 	end)
 end
-coroutine.wrap(ZTAN_fake_script)()
-local function XGMKQV_fake_script() -- Scripts.CMDXScript 
+coroutine.wrap(YGWGCXB_fake_script)()
+local function CKJX_fake_script() -- Scripts.CMDXScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1311,8 +1808,8 @@ local function XGMKQV_fake_script() -- Scripts.CMDXScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
 	end)
 end
-coroutine.wrap(XGMKQV_fake_script)()
-local function NRQNJXH_fake_script() -- Scripts.MurderMystery2Script 
+coroutine.wrap(CKJX_fake_script)()
+local function PCTHN_fake_script() -- Scripts.MurderMystery2Script 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1320,8 +1817,8 @@ local function NRQNJXH_fake_script() -- Scripts.MurderMystery2Script
 		loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
 	end)
 end
-coroutine.wrap(NRQNJXH_fake_script)()
-local function NHKW_fake_script() -- Scripts.ShindoLifeAutoFarmScript 
+coroutine.wrap(PCTHN_fake_script)()
+local function PHQXU_fake_script() -- Scripts.ShindoLifeAutoFarmScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1329,8 +1826,8 @@ local function NHKW_fake_script() -- Scripts.ShindoLifeAutoFarmScript
 		loadstring(game:HttpGet("https://bruh.keshhub.com/main.lua"))()
 	end)
 end
-coroutine.wrap(NHKW_fake_script)()
-local function ZXCXT_fake_script() -- Scripts.DaHoodAutoFarm 
+coroutine.wrap(PHQXU_fake_script)()
+local function OOEJG_fake_script() -- Scripts.DaHoodAutoFarm 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1338,8 +1835,8 @@ local function ZXCXT_fake_script() -- Scripts.DaHoodAutoFarm
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/rapnz/scripts/master/DaHoodFarm.lua"))()
 	end)
 end
-coroutine.wrap(ZXCXT_fake_script)()
-local function GYODIV_fake_script() -- Page2.BuildABoatScript 
+coroutine.wrap(OOEJG_fake_script)()
+local function KOSFM_fake_script() -- Page2.BuildABoatScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1347,8 +1844,8 @@ local function GYODIV_fake_script() -- Page2.BuildABoatScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FunnyTimeOkGood/OpPFScript/main/ScriptPF"))()
 	end)
 end
-coroutine.wrap(GYODIV_fake_script)()
-local function QXYVX_fake_script() -- Page2.ClosePage2Script 
+coroutine.wrap(KOSFM_fake_script)()
+local function THQPVL_fake_script() -- Page2.ClosePage2Script 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1356,8 +1853,8 @@ local function QXYVX_fake_script() -- Page2.ClosePage2Script
 		script.Parent.Visible = false
 	end)
 end
-coroutine.wrap(QXYVX_fake_script)()
-local function EXAQJQS_fake_script() -- Page2.SkywarsScript 
+coroutine.wrap(THQPVL_fake_script)()
+local function DYBRNJW_fake_script() -- Page2.SkywarsScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1365,8 +1862,8 @@ local function EXAQJQS_fake_script() -- Page2.SkywarsScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/Loadstring9VHD6Wmyi82n", true))()
 	end)
 end
-coroutine.wrap(EXAQJQS_fake_script)()
-local function VWRS_fake_script() -- Page2.JailBreakScript 
+coroutine.wrap(DYBRNJW_fake_script)()
+local function QFEAD_fake_script() -- Page2.JailBreakScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1374,8 +1871,8 @@ local function VWRS_fake_script() -- Page2.JailBreakScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Scripts/master/Vynixius%20Jailbreak"))()
 	end)
 end
-coroutine.wrap(VWRS_fake_script)()
-local function BCQMG_fake_script() -- Page2.JailBreakAutoArrestScript 
+coroutine.wrap(QFEAD_fake_script)()
+local function EIZJLLM_fake_script() -- Page2.JailBreakAutoArrestScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1383,8 +1880,8 @@ local function BCQMG_fake_script() -- Page2.JailBreakAutoArrestScript
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/HazeWasTaken/JailedHax/master/AutoArrest'))()
 	end)
 end
-coroutine.wrap(BCQMG_fake_script)()
-local function RSKZP_fake_script() -- Page2.TowerOfHellScript 
+coroutine.wrap(EIZJLLM_fake_script)()
+local function ULVCE_fake_script() -- Page2.TowerOfHellScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1392,8 +1889,8 @@ local function RSKZP_fake_script() -- Page2.TowerOfHellScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/iiProductionz/Floater-Scripts/main/WaifuEdition/Tower%20Of%20Hell"))()
 	end)
 end
-coroutine.wrap(RSKZP_fake_script)()
-local function EACABZ_fake_script() -- Page2.AdoptMeScript 
+coroutine.wrap(ULVCE_fake_script)()
+local function KKMOO_fake_script() -- Page2.AdoptMeScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1401,8 +1898,8 @@ local function EACABZ_fake_script() -- Page2.AdoptMeScript
 		loadstring(game:HttpGet("https://pastebin.com/raw/Z3iAXASr", true))()
 	end)
 end
-coroutine.wrap(EACABZ_fake_script)()
-local function DJKXS_fake_script() -- Page2.DaHoodScript 
+coroutine.wrap(KKMOO_fake_script)()
+local function HUKMDB_fake_script() -- Page2.DaHoodScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1413,8 +1910,8 @@ local function DJKXS_fake_script() -- Page2.DaHoodScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/loader"))()
 	end)
 end
-coroutine.wrap(DJKXS_fake_script)()
-local function WYYHW_fake_script() -- Page3.DaHood2Script 
+coroutine.wrap(HUKMDB_fake_script)()
+local function EXXKAY_fake_script() -- Page3.DaHood2Script 
 	local script = Instance.new('LocalScript', Page3)
 
 	local player = game.Players.LocalPlayer
@@ -1422,8 +1919,8 @@ local function WYYHW_fake_script() -- Page3.DaHood2Script
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/kryptx"))()
 	end)
 end
-coroutine.wrap(WYYHW_fake_script)()
-local function TAXVMHF_fake_script() -- Page3.ClosePage3Script 
+coroutine.wrap(EXXKAY_fake_script)()
+local function PLNIRHM_fake_script() -- Page3.ClosePage3Script 
 	local script = Instance.new('LocalScript', Page3)
 
 	local player = game.Players.LocalPlayer
@@ -1431,8 +1928,8 @@ local function TAXVMHF_fake_script() -- Page3.ClosePage3Script
 		script.Parent.Visible = false
 	end)
 end
-coroutine.wrap(TAXVMHF_fake_script)()
-local function TYZN_fake_script() -- Page3.LumberTycoon2DupeScript 
+coroutine.wrap(PLNIRHM_fake_script)()
+local function GTDGJU_fake_script() -- Page3.LumberTycoon2DupeScript 
 	local script = Instance.new('LocalScript', Page3)
 
 	local player = game.Players.LocalPlayer
@@ -1440,8 +1937,8 @@ local function TYZN_fake_script() -- Page3.LumberTycoon2DupeScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FunnyTimeOkGood/Lumber2DupeMoney/main/DupeMoneyez"))()
 	end)
 end
-coroutine.wrap(TYZN_fake_script)()
-local function SVUKVIH_fake_script() -- Page2.3rdPageScript 
+coroutine.wrap(GTDGJU_fake_script)()
+local function NSAB_fake_script() -- Page2.3rdPageScript 
 	local script = Instance.new('LocalScript', Page2)
 
 	local player = game.Players.LocalPlayer
@@ -1449,8 +1946,8 @@ local function SVUKVIH_fake_script() -- Page2.3rdPageScript
 		script.Parent.Page3.Visible = true
 	end)
 end
-coroutine.wrap(SVUKVIH_fake_script)()
-local function MPNYUL_fake_script() -- Scripts.ScriptsPage2Script 
+coroutine.wrap(NSAB_fake_script)()
+local function BGQEXWD_fake_script() -- Scripts.ScriptsPage2Script 
 	local script = Instance.new('LocalScript', Scripts)
 
 	local player = game.Players.LocalPlayer
@@ -1459,14 +1956,14 @@ local function MPNYUL_fake_script() -- Scripts.ScriptsPage2Script
 		script.Parent.Page2.Visible = true
 	end)
 end
-coroutine.wrap(MPNYUL_fake_script)()
-local function VHAE_fake_script() -- About.AboutScript 
+coroutine.wrap(BGQEXWD_fake_script)()
+local function OVWBHM_fake_script() -- About.AboutScript 
 	local script = Instance.new('LocalScript', About)
 
 	script.Parent.Text = "Hi " .. game.Players.LocalPlayer.Name .. ", thank you for purchasing Reaper Hub this will continuously update this GUI if you have any suggestions/problems just DM me. ReaperHacks#0001. "P" To toggle"
 end
-coroutine.wrap(VHAE_fake_script)()
-local function ZWOW_fake_script() -- Home_2.HomeScript 
+coroutine.wrap(OVWBHM_fake_script)()
+local function FDIBHYO_fake_script() -- Home_2.HomeScript 
 	local script = Instance.new('Script', Home_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1476,8 +1973,8 @@ local function ZWOW_fake_script() -- Home_2.HomeScript
 		script.Parent.Parent.Parent.Player.Visible = false
 	end)
 end
-coroutine.wrap(ZWOW_fake_script)()
-local function FNFE_fake_script() -- Scripts_2.ScriptsScript 
+coroutine.wrap(FDIBHYO_fake_script)()
+local function RSBUIC_fake_script() -- Scripts_2.ScriptsScript 
 	local script = Instance.new('Script', Scripts_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1487,8 +1984,8 @@ local function FNFE_fake_script() -- Scripts_2.ScriptsScript
 		script.Parent.Parent.Parent.Player.Visible = false
 	end)
 end
-coroutine.wrap(FNFE_fake_script)()
-local function CXLAI_fake_script() -- Player_2.PlayerScript 
+coroutine.wrap(RSBUIC_fake_script)()
+local function TPGMARI_fake_script() -- Player_2.PlayerScript 
 	local script = Instance.new('Script', Player_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1498,8 +1995,8 @@ local function CXLAI_fake_script() -- Player_2.PlayerScript
 		script.Parent.Parent.Parent.Scripts.Visible = false
 	end)
 end
-coroutine.wrap(CXLAI_fake_script)()
-local function JOOB_fake_script() -- PremiumGUI.ToggleScript 
+coroutine.wrap(TPGMARI_fake_script)()
+local function BJKSUKR_fake_script() -- PremiumGUI.ToggleScript 
 	local script = Instance.new('LocalScript', PremiumGUI)
 
 	local isVisible = true
@@ -1523,4 +2020,305 @@ local function JOOB_fake_script() -- PremiumGUI.ToggleScript
 		end
 	end)
 end
-coroutine.wrap(JOOB_fake_script)()
+coroutine.wrap(BJKSUKR_fake_script)()
+local function VBEVMV_fake_script() -- About_2.AboutScript 
+	local script = Instance.new('LocalScript', About_2)
+
+	script.Parent.Text = "Hi " .. game.Players.LocalPlayer.Name .. ", welcome to Reaper Hub [TRIAL] this will be a small preview on the premium if you would like to purchase premium please join the Discord with the button below. Press [P] to toggle!"
+end
+coroutine.wrap(VBEVMV_fake_script)()
+local function VFMMEAW_fake_script() -- Home_3.InviteCopy 
+	local script = Instance.new('LocalScript', Home_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.DiscordInvite.MouseButton1Click:Connect(function()
+		setclipboard('https://discord.gg/HJabVmd')
+	end)
+end
+coroutine.wrap(VFMMEAW_fake_script)()
+local function NEMQTPN_fake_script() -- Player_3.SpeedScript 
+	local script = Instance.new('LocalScript', Player_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.SpeedApply.MouseButton1Click:Connect(function()
+		player.Character.Humanoid.WalkSpeed = script.Parent.SpeedText.Text
+	end)
+end
+coroutine.wrap(NEMQTPN_fake_script)()
+local function QGFBHN_fake_script() -- Player_3.JumpApply 
+	local script = Instance.new('LocalScript', Player_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.JumpApply.MouseButton1Click:Connect(function()
+		player.Character.Humanoid.JumpPower = script.Parent.JumpText.Text
+	end)
+end
+coroutine.wrap(QGFBHN_fake_script)()
+local function EZTTBU_fake_script() -- Player_3.NoClipScript 
+	local script = Instance.new('LocalScript', Player_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.NoClip.MouseButton1Click:Connect(function()
+		noclip = false
+		game:GetService('RunService').Stepped:connect(function()
+			if noclip then
+				game.Players.LocalPlayer.Character.Humanoid:ChangeState(11)
+			end
+		end)
+		plr = game.Players.LocalPlayer
+		mouse = plr:GetMouse()
+		mouse.KeyDown:connect(function(key)
+	
+			if key == "c" then
+				noclip = not noclip
+				game.Players.LocalPlayer.Character.Humanoid:ChangeState(11)
+			end
+		end)
+		print('Loaded')
+		print('Press "c" to noclip')
+	end)
+	
+end
+coroutine.wrap(EZTTBU_fake_script)()
+local function PXFJZ_fake_script() -- Player_3.FlightScript 
+	local script = Instance.new('LocalScript', Player_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.Flight.MouseButton1Click:Connect(function()
+	
+	
+		_G.FLYING = false
+		local LP = game:service('Players').LocalPlayer
+		local T = LP.Character.UpperTorso
+		local CONTROL = {F = 0, B = 0, L = 0, R = 0}
+		local lCONTROL = {F = 0, B = 0, L = 0, R = 0}
+		local SPEED = 5
+		local MOUSE = LP:GetMouse()
+		local Active = false
+	
+	
+		local function FLY()
+			_G.FLYING = true
+			local BG = Instance.new('BodyGyro', T)
+			local BV = Instance.new('BodyVelocity', T)
+			BG.P = 9e4
+			BG.maxTorque = Vector3.new(9e9, 9e9, 9e9)
+			BG.cframe = T.CFrame
+			BV.velocity = Vector3.new(0, 0.1, 0)
+			BV.maxForce = Vector3.new(9e9, 9e9, 9e9)
+	
+	
+			spawn(function()
+				repeat wait()
+					LP.Character.Humanoid.PlatformStand = true
+					if CONTROL.L + CONTROL.R ~= 0 or CONTROL.F + CONTROL.B ~= 0 then
+						SPEED = 50
+					elseif not (CONTROL.L + CONTROL.R ~= 0 or CONTROL.F + CONTROL.B ~= 0) and SPEED ~= 0 then
+						SPEED = 0
+					end
+					if (CONTROL.L + CONTROL.R) ~= 0 or (CONTROL.F + CONTROL.B) ~= 0 then
+						BV.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (CONTROL.F + CONTROL.B)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(CONTROL.L + CONTROL.R, (CONTROL.F + CONTROL.B) * 0.2, 0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p)) * SPEED
+						lCONTROL = {F = CONTROL.F, B = CONTROL.B, L = CONTROL.L, R = CONTROL.R}
+					elseif (CONTROL.L + CONTROL.R) == 0 and (CONTROL.F + CONTROL.B) == 0 and SPEED ~= 0 then
+						BV.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (lCONTROL.F + lCONTROL.B)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(lCONTROL.L + lCONTROL.R, (lCONTROL.F + lCONTROL.B) * 0.2, 0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p)) * SPEED
+					else
+						BV.velocity = Vector3.new(0, 0.1, 0)
+					end
+					BG.cframe = game.Workspace.CurrentCamera.CoordinateFrame
+				until not _G.FLYING
+				CONTROL = {F = 0, B = 0, L = 0, R = 0}
+				lCONTROL = {F = 0, B = 0, L = 0, R = 0}
+				SPEED = 0
+				BG:destroy()
+				BV:destroy()
+				LP.Character.Humanoid.PlatformStand = false
+			end)
+		end
+	
+		MOUSE.KeyDown:connect(function(KEY)
+			if KEY:lower() == 'w' then
+				CONTROL.F = 1
+			elseif KEY:lower() == 's' then
+				CONTROL.B = -1
+			elseif KEY:lower() == 'a' then
+				CONTROL.L = -1 
+			elseif KEY:lower() == 'd' then 
+				CONTROL.R = 1
+			elseif KEY:lower() == 'v' then
+				if Active == false then
+					Active = true
+					FLY()
+				elseif Active == true then
+					Active = false
+					_G.FLYING = false
+				end
+			end
+		end)
+	
+		MOUSE.KeyUp:connect(function(KEY)
+			if KEY:lower() == 'w' then
+				CONTROL.F = 0
+			elseif KEY:lower() == 's' then
+				CONTROL.B = 0
+			elseif KEY:lower() == 'a' then
+				CONTROL.L = 0
+			elseif KEY:lower() == 'd' then
+				CONTROL.R = 0
+			end
+		end)
+	end)
+	
+end
+coroutine.wrap(PXFJZ_fake_script)()
+local function COLSGS_fake_script() -- Player_3.DontClickScript 
+	local script = Instance.new('LocalScript', Player_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.DontClick.MouseButton1Click:Connect(function()
+		script.Parent.DontClick.Visible = false
+		wait (2)
+		script.Parent.DontClick.Visible = true
+	end)
+end
+coroutine.wrap(COLSGS_fake_script)()
+local function XELPD_fake_script() -- Scripts_3.OwlHubScript 
+	local script = Instance.new('LocalScript', Scripts_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.OwlHub.MouseButton1Click:Connect(function()
+		local old
+		old = hookfunction(game.HttpGetAsync, function(inst, url, state)
+			url = url:gsub('CriShoux', 'SiLeNSwOrD')
+			return old(inst, url, state)
+		end)
+	
+		local old2
+		old2 = hookfunction(game.HttpGet, function(inst, url, state)
+			url = url:gsub('CriShoux', 'SiLeNSwOrD')
+			return old2(inst, url, state)
+		end)
+	
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt"))()
+	end)
+end
+coroutine.wrap(XELPD_fake_script)()
+local function SRECZBT_fake_script() -- Scripts_3.InfiniteYieldScript 
+	local script = Instance.new('LocalScript', Scripts_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.InfiniteYield.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+	end)
+end
+coroutine.wrap(SRECZBT_fake_script)()
+local function DPEP_fake_script() -- Scripts_3.AdoptMeScript 
+	local script = Instance.new('LocalScript', Scripts_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.AdoptMe.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/Z3iAXASr", true))()
+	end)
+end
+coroutine.wrap(DPEP_fake_script)()
+local function RKQD_fake_script() -- Scripts_3.TowerOfHellScript 
+	local script = Instance.new('LocalScript', Scripts_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.TowerOfHell.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/iiProductionz/Floater-Scripts/main/WaifuEdition/Tower%20Of%20Hell"))()
+	end)
+end
+coroutine.wrap(RKQD_fake_script)()
+local function JMFJWZC_fake_script() -- Scripts_3.SkyWarsScript 
+	local script = Instance.new('LocalScript', Scripts_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.Skywars.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/Loadstring9VHD6Wmyi82n", true))()
+	end)
+end
+coroutine.wrap(JMFJWZC_fake_script)()
+local function APCVLEP_fake_script() -- Scripts_3.CMDXScript 
+	local script = Instance.new('LocalScript', Scripts_3)
+
+	local player = game.Players.LocalPlayer
+	script.Parent.CMDX.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+	end)
+end
+coroutine.wrap(APCVLEP_fake_script)()
+local function LXWBXFP_fake_script() -- Scripts_3.DontClickMeScript 
+	local script = Instance.new('LocalScript', Scripts_3)
+
+	script.Parent.DontClickMe.MouseButton1Click:Connect(function()
+		script.Parent.DontClickMe.Visible = false
+		wait (5)
+		script.Parent.DontClickMe.Visible = true
+	end)
+end
+coroutine.wrap(LXWBXFP_fake_script)()
+local function GXAOTGV_fake_script() -- Home_4.HomeScript 
+	local script = Instance.new('Script', Home_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+	
+		script.Parent.Parent.Parent.Scripts.Visible = false
+		script.Parent.Parent.Parent.Home.Visible = true
+		script.Parent.Parent.Parent.Player.Visible = false
+	end)
+end
+coroutine.wrap(GXAOTGV_fake_script)()
+local function VYNWZ_fake_script() -- Scripts_4.ScriptsScript 
+	local script = Instance.new('Script', Scripts_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+	
+		script.Parent.Parent.Parent.Home.Visible = false
+		script.Parent.Parent.Parent.Scripts.Visible = true
+		script.Parent.Parent.Parent.Player.Visible = false
+	end)
+end
+coroutine.wrap(VYNWZ_fake_script)()
+local function FPSLJJV_fake_script() -- Player_4.PlayerScript 
+	local script = Instance.new('Script', Player_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+	
+		script.Parent.Parent.Parent.Home.Visible = false
+		script.Parent.Parent.Parent.Player.Visible = true
+		script.Parent.Parent.Parent.Scripts.Visible = false
+	end)
+end
+coroutine.wrap(FPSLJJV_fake_script)()
+local function BAWU_fake_script() -- TrialGUI.ToggleScript 
+	local script = Instance.new('LocalScript', TrialGUI)
+
+	local isVisible = true
+	local Player = game.Players.LocalPlayer:GetMouse()
+	
+	Player.KeyDown:Connect(function(key)
+		if key:byte() == 112 then
+			if isVisible == true then
+				script.Parent.Home.Visible = false
+				script.Parent.Pages.Visible = false
+				script.Parent.Player.Visible = false
+				script.Parent.Scripts.Visible = false
+				isVisible = false
+			elseif isVisible == false then
+				script.Parent.Home.Visible = true
+				script.Parent.Pages.Visible = true
+				script.Parent.Player.Visible = true
+				script.Parent.Scripts.Visible = true
+				isVisible = true
+			end
+		end
+	end)
+end
+coroutine.wrap(BAWU_fake_script)()
+local function MWYIOB_fake_script() -- TrialGUI.Script 
+	local script = Instance.new('Script', TrialGUI)
+
+	script.Parent.Active = true
+	script.Parent.Draggable = true
+end
+coroutine.wrap(MWYIOB_fake_script)()
