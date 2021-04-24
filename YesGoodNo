@@ -2,7 +2,8 @@
 -- Version: 3.2
 
 -- Instances:
-
+if getgenv().GUI_RUNNING then return end
+getgenv().GUI_RUNNING = true
 local ScreenGui = Instance.new("ScreenGui")
 local LoginGUI = Instance.new("ImageLabel")
 local Login = Instance.new("TextButton")
