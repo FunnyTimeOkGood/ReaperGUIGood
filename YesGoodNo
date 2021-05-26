@@ -37,62 +37,95 @@ local About = Instance.new("TextLabel")
 local UICorner_14 = Instance.new("UICorner")
 local Title_2 = Instance.new("TextLabel")
 local UICorner_15 = Instance.new("UICorner")
-local Scripts = Instance.new("Frame")
+local Games = Instance.new("TextButton")
+local UICorner_16 = Instance.new("UICorner")
+local GamesGUI = Instance.new("Frame")
+local UICorner_17 = Instance.new("UICorner")
 local UIGradient_3 = Instance.new("UIGradient")
 local Title_3 = Instance.new("TextLabel")
-local UICorner_16 = Instance.new("UICorner")
-local Games = Instance.new("ScrollingFrame")
-local AdoptMe = Instance.new("TextButton")
-local UICorner_17 = Instance.new("UICorner")
-local UniversalAimbot = Instance.new("TextButton")
 local UICorner_18 = Instance.new("UICorner")
-local TowerOfHell = Instance.new("TextButton")
-local UICorner_19 = Instance.new("UICorner")
-local OwlHub = Instance.new("TextButton")
-local UICorner_20 = Instance.new("UICorner")
-local Skywars = Instance.new("TextButton")
-local UICorner_21 = Instance.new("UICorner")
-local AlphaX = Instance.new("TextButton")
-local UICorner_22 = Instance.new("UICorner")
-local CMDX = Instance.new("TextButton")
-local UICorner_23 = Instance.new("UICorner")
-local BuildABoat = Instance.new("TextButton")
-local UICorner_24 = Instance.new("UICorner")
-local DaHood = Instance.new("TextButton")
-local UICorner_25 = Instance.new("UICorner")
-local DaHood2 = Instance.new("TextButton")
-local UICorner_26 = Instance.new("UICorner")
-local DarkHub = Instance.new("TextButton")
-local UICorner_27 = Instance.new("UICorner")
-local DaHoodAutoFarm = Instance.new("TextButton")
-local UICorner_28 = Instance.new("UICorner")
-local DuckHub = Instance.new("TextButton")
-local UICorner_29 = Instance.new("UICorner")
-local InfiniteYield = Instance.new("TextButton")
-local UICorner_30 = Instance.new("UICorner")
-local JailBreak = Instance.new("TextButton")
-local UICorner_31 = Instance.new("UICorner")
-local JailBreakAutoRob = Instance.new("TextButton")
-local UICorner_32 = Instance.new("UICorner")
 local LumberTycoon2 = Instance.new("TextButton")
-local UICorner_33 = Instance.new("UICorner")
-local LumberTycoon2Dupe = Instance.new("TextButton")
-local UICorner_34 = Instance.new("UICorner")
+local UICorner_19 = Instance.new("UICorner")
 local MurderMystery2 = Instance.new("TextButton")
+local UICorner_20 = Instance.new("UICorner")
+local Arsenal = Instance.new("TextButton")
+local UICorner_21 = Instance.new("UICorner")
+local PhantomForces = Instance.new("TextButton")
+local UICorner_22 = Instance.new("UICorner")
+local Strucid = Instance.new("TextButton")
+local UICorner_23 = Instance.new("UICorner")
+local JailBreak = Instance.new("TextButton")
+local UICorner_24 = Instance.new("UICorner")
+local SkyWars = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
+local RagDollEngine = Instance.new("TextButton")
+local UICorner_26 = Instance.new("UICorner")
+local MadCity = Instance.new("TextButton")
+local UICorner_27 = Instance.new("UICorner")
+local ShindoLife = Instance.new("TextButton")
+local UICorner_28 = Instance.new("UICorner")
+local CounterBlox = Instance.new("TextButton")
+local UICorner_29 = Instance.new("UICorner")
+local BuildABoat = Instance.new("TextButton")
+local UICorner_30 = Instance.new("UICorner")
+local CreditsText = Instance.new("TextLabel")
+local UICorner_31 = Instance.new("UICorner")
+local Scripts = Instance.new("Frame")
+local UIGradient_4 = Instance.new("UIGradient")
+local Title_4 = Instance.new("TextLabel")
+local UICorner_32 = Instance.new("UICorner")
+local Games_2 = Instance.new("ScrollingFrame")
+local AdoptMe = Instance.new("TextButton")
+local UICorner_33 = Instance.new("UICorner")
+local UniversalAimbot = Instance.new("TextButton")
+local UICorner_34 = Instance.new("UICorner")
+local TowerOfHell = Instance.new("TextButton")
 local UICorner_35 = Instance.new("UICorner")
-local ShindoLifeAutoFarm = Instance.new("TextButton")
+local OwlHub = Instance.new("TextButton")
 local UICorner_36 = Instance.new("UICorner")
-local ThoseWhoRemain = Instance.new("TextButton")
+local Skywars = Instance.new("TextButton")
 local UICorner_37 = Instance.new("UICorner")
+local AlphaX = Instance.new("TextButton")
 local UICorner_38 = Instance.new("UICorner")
+local CMDX = Instance.new("TextButton")
+local UICorner_39 = Instance.new("UICorner")
+local BuildABoat_2 = Instance.new("TextButton")
+local UICorner_40 = Instance.new("UICorner")
+local DaHood = Instance.new("TextButton")
+local UICorner_41 = Instance.new("UICorner")
+local DaHood2 = Instance.new("TextButton")
+local UICorner_42 = Instance.new("UICorner")
+local DarkHub = Instance.new("TextButton")
+local UICorner_43 = Instance.new("UICorner")
+local DaHoodAutoFarm = Instance.new("TextButton")
+local UICorner_44 = Instance.new("UICorner")
+local DuckHub = Instance.new("TextButton")
+local UICorner_45 = Instance.new("UICorner")
+local InfiniteYield = Instance.new("TextButton")
+local UICorner_46 = Instance.new("UICorner")
+local JailBreak_2 = Instance.new("TextButton")
+local UICorner_47 = Instance.new("UICorner")
+local JailBreakAutoRob = Instance.new("TextButton")
+local UICorner_48 = Instance.new("UICorner")
+local LumberTycoon2_2 = Instance.new("TextButton")
+local UICorner_49 = Instance.new("UICorner")
+local LumberTycoon2Dupe = Instance.new("TextButton")
+local UICorner_50 = Instance.new("UICorner")
+local MurderMystery2_2 = Instance.new("TextButton")
+local UICorner_51 = Instance.new("UICorner")
+local ShindoLifeAutoFarm = Instance.new("TextButton")
+local UICorner_52 = Instance.new("UICorner")
+local ThoseWhoRemain = Instance.new("TextButton")
+local UICorner_53 = Instance.new("UICorner")
+local UICorner_54 = Instance.new("UICorner")
 local Pages = Instance.new("Frame")
 local Home_2 = Instance.new("TextButton")
-local UICorner_39 = Instance.new("UICorner")
+local UICorner_55 = Instance.new("UICorner")
 local Scripts_2 = Instance.new("TextButton")
-local UICorner_40 = Instance.new("UICorner")
+local UICorner_56 = Instance.new("UICorner")
 local Player_2 = Instance.new("TextButton")
-local UICorner_41 = Instance.new("UICorner")
-local UICorner_42 = Instance.new("UICorner")
+local UICorner_57 = Instance.new("UICorner")
+local UICorner_58 = Instance.new("UICorner")
 
 --Properties:
 
@@ -286,8 +319,8 @@ About.Name = "About"
 About.Parent = Home
 About.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
 About.BackgroundTransparency = 0.800
-About.Position = UDim2.new(0.247549012, 0, 0.28318584, 0)
-About.Size = UDim2.new(0, 284, 0, 141)
+About.Position = UDim2.new(0.245098025, 0, 0.252212375, 0)
+About.Size = UDim2.new(0, 284, 0, 125)
 About.Font = Enum.Font.TitilliumWeb
 About.Text = ""
 About.TextColor3 = Color3.fromRGB(0, 0, 0)
@@ -311,39 +344,248 @@ Title_2.TextWrapped = true
 
 UICorner_15.Parent = Title_2
 
+Games.Name = "Games"
+Games.Parent = Home
+Games.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Games.BackgroundTransparency = 0.800
+Games.Position = UDim2.new(0.377450973, 0, 0.849557519, 0)
+Games.Size = UDim2.new(0, 169, 0, 20)
+Games.Font = Enum.Font.Roboto
+Games.Text = "Games"
+Games.TextColor3 = Color3.fromRGB(0, 0, 0)
+Games.TextScaled = true
+Games.TextSize = 14.000
+Games.TextWrapped = true
+
+UICorner_16.Parent = Games
+
+GamesGUI.Name = "GamesGUI"
+GamesGUI.Parent = Home
+GamesGUI.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+GamesGUI.Position = UDim2.new(1.49011612e-08, 0, -1.33185852, 0)
+GamesGUI.Size = UDim2.new(0, 408, 0, 295)
+GamesGUI.Visible = false
+
+UICorner_17.Parent = GamesGUI
+
+UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(79, 79, 79))}
+UIGradient_3.Parent = GamesGUI
+
+Title_3.Name = "Title"
+Title_3.Parent = GamesGUI
+Title_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_3.BackgroundTransparency = 0.900
+Title_3.Size = UDim2.new(0, 408, 0, 50)
+Title_3.Font = Enum.Font.SourceSansSemibold
+Title_3.Text = "Games"
+Title_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Title_3.TextSize = 30.000
+
+UICorner_18.Parent = Title_3
+
+LumberTycoon2.Name = "LumberTycoon2"
+LumberTycoon2.Parent = GamesGUI
+LumberTycoon2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LumberTycoon2.BackgroundTransparency = 0.900
+LumberTycoon2.Position = UDim2.new(0.0344168246, 0, 0.223728821, 0)
+LumberTycoon2.Size = UDim2.new(0, 124, 0, 28)
+LumberTycoon2.Font = Enum.Font.SourceSansSemibold
+LumberTycoon2.Text = "Lumber Tycoon 2"
+LumberTycoon2.TextColor3 = Color3.fromRGB(0, 0, 0)
+LumberTycoon2.TextSize = 20.000
+
+UICorner_19.Parent = LumberTycoon2
+
+MurderMystery2.Name = "MurderMystery2"
+MurderMystery2.Parent = GamesGUI
+MurderMystery2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MurderMystery2.BackgroundTransparency = 0.900
+MurderMystery2.Position = UDim2.new(0.367112786, 0, 0.223728836, 0)
+MurderMystery2.Size = UDim2.new(0, 124, 0, 28)
+MurderMystery2.Font = Enum.Font.SourceSansSemibold
+MurderMystery2.Text = "Murder Mystery 2"
+MurderMystery2.TextColor3 = Color3.fromRGB(0, 0, 0)
+MurderMystery2.TextSize = 20.000
+
+UICorner_20.Parent = MurderMystery2
+
+Arsenal.Name = "Arsenal"
+Arsenal.Parent = GamesGUI
+Arsenal.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Arsenal.BackgroundTransparency = 0.900
+Arsenal.Position = UDim2.new(0.697896719, 0, 0.223728821, 0)
+Arsenal.Size = UDim2.new(0, 124, 0, 28)
+Arsenal.Font = Enum.Font.SourceSansSemibold
+Arsenal.Text = "Arsenal"
+Arsenal.TextColor3 = Color3.fromRGB(0, 0, 0)
+Arsenal.TextSize = 22.000
+
+UICorner_21.Parent = Arsenal
+
+PhantomForces.Name = "PhantomForces"
+PhantomForces.Parent = GamesGUI
+PhantomForces.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PhantomForces.BackgroundTransparency = 0.900
+PhantomForces.Position = UDim2.new(0.0344167948, 0, 0.393220365, 0)
+PhantomForces.Size = UDim2.new(0, 124, 0, 28)
+PhantomForces.Font = Enum.Font.SourceSansSemibold
+PhantomForces.Text = "Phantom Forces"
+PhantomForces.TextColor3 = Color3.fromRGB(0, 0, 0)
+PhantomForces.TextSize = 22.000
+
+UICorner_22.Parent = PhantomForces
+
+Strucid.Name = "Strucid"
+Strucid.Parent = GamesGUI
+Strucid.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Strucid.BackgroundTransparency = 0.900
+Strucid.Position = UDim2.new(0.367112786, 0, 0.393220365, 0)
+Strucid.Size = UDim2.new(0, 124, 0, 28)
+Strucid.Font = Enum.Font.SourceSansSemibold
+Strucid.Text = "Strucid"
+Strucid.TextColor3 = Color3.fromRGB(0, 0, 0)
+Strucid.TextSize = 22.000
+
+UICorner_23.Parent = Strucid
+
+JailBreak.Name = "JailBreak"
+JailBreak.Parent = GamesGUI
+JailBreak.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+JailBreak.BackgroundTransparency = 0.900
+JailBreak.Position = UDim2.new(0.697896719, 0, 0.393220365, 0)
+JailBreak.Size = UDim2.new(0, 124, 0, 28)
+JailBreak.Font = Enum.Font.SourceSansSemibold
+JailBreak.Text = "Jail Break"
+JailBreak.TextColor3 = Color3.fromRGB(0, 0, 0)
+JailBreak.TextSize = 22.000
+
+UICorner_24.Parent = JailBreak
+
+SkyWars.Name = "SkyWars"
+SkyWars.Parent = GamesGUI
+SkyWars.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SkyWars.BackgroundTransparency = 0.900
+SkyWars.Position = UDim2.new(0.0340000018, 0, 0.561999977, 0)
+SkyWars.Size = UDim2.new(0, 124, 0, 28)
+SkyWars.Font = Enum.Font.SourceSansSemibold
+SkyWars.Text = "Sky Wars"
+SkyWars.TextColor3 = Color3.fromRGB(0, 0, 0)
+SkyWars.TextSize = 22.000
+
+UICorner_25.Parent = SkyWars
+
+RagDollEngine.Name = "RagDollEngine"
+RagDollEngine.Parent = GamesGUI
+RagDollEngine.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+RagDollEngine.BackgroundTransparency = 0.900
+RagDollEngine.Position = UDim2.new(0.366696, 0, 0.561999977, 0)
+RagDollEngine.Size = UDim2.new(0, 124, 0, 28)
+RagDollEngine.Font = Enum.Font.SourceSansSemibold
+RagDollEngine.Text = "RagDoll Engine"
+RagDollEngine.TextColor3 = Color3.fromRGB(0, 0, 0)
+RagDollEngine.TextSize = 22.000
+
+UICorner_26.Parent = RagDollEngine
+
+MadCity.Name = "MadCity"
+MadCity.Parent = GamesGUI
+MadCity.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MadCity.BackgroundTransparency = 0.900
+MadCity.Position = UDim2.new(0.697479963, 0, 0.561999977, 0)
+MadCity.Size = UDim2.new(0, 124, 0, 28)
+MadCity.Font = Enum.Font.SourceSansSemibold
+MadCity.Text = "Mad City"
+MadCity.TextColor3 = Color3.fromRGB(0, 0, 0)
+MadCity.TextSize = 22.000
+
+UICorner_27.Parent = MadCity
+
+ShindoLife.Name = "ShindoLife"
+ShindoLife.Parent = GamesGUI
+ShindoLife.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ShindoLife.BackgroundTransparency = 0.900
+ShindoLife.Position = UDim2.new(0.0339998715, 0, 0.731000066, 0)
+ShindoLife.Size = UDim2.new(0, 124, 0, 28)
+ShindoLife.Font = Enum.Font.SourceSansSemibold
+ShindoLife.Text = "Shindo Life"
+ShindoLife.TextColor3 = Color3.fromRGB(0, 0, 0)
+ShindoLife.TextSize = 22.000
+
+UICorner_28.Parent = ShindoLife
+
+CounterBlox.Name = "CounterBlox"
+CounterBlox.Parent = GamesGUI
+CounterBlox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CounterBlox.BackgroundTransparency = 0.900
+CounterBlox.Position = UDim2.new(0.366696, 0, 0.731000006, 0)
+CounterBlox.Size = UDim2.new(0, 124, 0, 28)
+CounterBlox.Font = Enum.Font.SourceSansSemibold
+CounterBlox.Text = "Counter Blox"
+CounterBlox.TextColor3 = Color3.fromRGB(0, 0, 0)
+CounterBlox.TextSize = 22.000
+
+UICorner_29.Parent = CounterBlox
+
+BuildABoat.Name = "BuildABoat"
+BuildABoat.Parent = GamesGUI
+BuildABoat.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BuildABoat.BackgroundTransparency = 0.900
+BuildABoat.Position = UDim2.new(0.697479963, 0, 0.731000006, 0)
+BuildABoat.Size = UDim2.new(0, 124, 0, 28)
+BuildABoat.Font = Enum.Font.SourceSansSemibold
+BuildABoat.Text = "Build A Boat"
+BuildABoat.TextColor3 = Color3.fromRGB(0, 0, 0)
+BuildABoat.TextSize = 22.000
+
+UICorner_30.Parent = BuildABoat
+
+CreditsText.Name = "CreditsText"
+CreditsText.Parent = GamesGUI
+CreditsText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CreditsText.BackgroundTransparency = 0.900
+CreditsText.Position = UDim2.new(-0.00245098048, 0, 0.888135493, 0)
+CreditsText.Size = UDim2.new(0, 409, 0, 33)
+CreditsText.Font = Enum.Font.SourceSansSemibold
+CreditsText.Text = "Teleport Service scripts by Reaper."
+CreditsText.TextColor3 = Color3.fromRGB(0, 0, 0)
+CreditsText.TextSize = 16.000
+CreditsText.TextWrapped = true
+
+UICorner_31.Parent = CreditsText
+
 Scripts.Name = "Scripts"
 Scripts.Parent = PremiumGUI
 Scripts.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
 Scripts.Size = UDim2.new(0, 407, 0, 225)
 Scripts.Visible = false
 
-UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
-UIGradient_3.Parent = Scripts
+UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
+UIGradient_4.Parent = Scripts
 
-Title_3.Name = "Title"
-Title_3.Parent = Scripts
-Title_3.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
-Title_3.BackgroundTransparency = 0.800
-Title_3.Size = UDim2.new(0, 408, 0, 41)
-Title_3.Font = Enum.Font.TitilliumWeb
-Title_3.Text = "Reaper Hub"
-Title_3.TextColor3 = Color3.fromRGB(0, 0, 0)
-Title_3.TextScaled = true
-Title_3.TextSize = 14.000
-Title_3.TextWrapped = true
+Title_4.Name = "Title"
+Title_4.Parent = Scripts
+Title_4.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Title_4.BackgroundTransparency = 0.800
+Title_4.Size = UDim2.new(0, 408, 0, 41)
+Title_4.Font = Enum.Font.TitilliumWeb
+Title_4.Text = "Reaper Hub"
+Title_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Title_4.TextScaled = true
+Title_4.TextSize = 14.000
+Title_4.TextWrapped = true
 
-UICorner_16.Parent = Title_3
+UICorner_32.Parent = Title_4
 
-Games.Name = "Games"
-Games.Parent = Scripts
-Games.Active = true
-Games.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
-Games.BackgroundTransparency = 0.800
-Games.Position = UDim2.new(0.24078624, 0, 0.284082562, 0)
-Games.Size = UDim2.new(0, 295, 0, 140)
+Games_2.Name = "Games"
+Games_2.Parent = Scripts
+Games_2.Active = true
+Games_2.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+Games_2.BackgroundTransparency = 0.800
+Games_2.Position = UDim2.new(0.24078624, 0, 0.284082562, 0)
+Games_2.Size = UDim2.new(0, 295, 0, 140)
 
 AdoptMe.Name = "AdoptMe"
-AdoptMe.Parent = Games
+AdoptMe.Parent = Games_2
 AdoptMe.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 AdoptMe.Position = UDim2.new(0.0428049266, 0, 0.0272776019, 0)
 AdoptMe.Size = UDim2.new(0, 64, 0, 45)
@@ -354,10 +596,10 @@ AdoptMe.TextScaled = true
 AdoptMe.TextSize = 14.000
 AdoptMe.TextWrapped = true
 
-UICorner_17.Parent = AdoptMe
+UICorner_33.Parent = AdoptMe
 
 UniversalAimbot.Name = "UniversalAimbot"
-UniversalAimbot.Parent = Games
+UniversalAimbot.Parent = Games_2
 UniversalAimbot.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 UniversalAimbot.Position = UDim2.new(0.0419076085, 0, 0.883527517, 0)
 UniversalAimbot.Size = UDim2.new(0, 64, 0, 45)
@@ -368,10 +610,10 @@ UniversalAimbot.TextScaled = true
 UniversalAimbot.TextSize = 14.000
 UniversalAimbot.TextWrapped = true
 
-UICorner_18.Parent = UniversalAimbot
+UICorner_34.Parent = UniversalAimbot
 
 TowerOfHell.Name = "TowerOfHell"
-TowerOfHell.Parent = Games
+TowerOfHell.Parent = Games_2
 TowerOfHell.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 TowerOfHell.Position = UDim2.new(0.665079057, 0, 0.746687591, 0)
 TowerOfHell.Size = UDim2.new(0, 64, 0, 45)
@@ -382,10 +624,10 @@ TowerOfHell.TextScaled = true
 TowerOfHell.TextSize = 14.000
 TowerOfHell.TextWrapped = true
 
-UICorner_19.Parent = TowerOfHell
+UICorner_35.Parent = TowerOfHell
 
 OwlHub.Name = "OwlHub"
-OwlHub.Parent = Games
+OwlHub.Parent = Games_2
 OwlHub.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 OwlHub.Position = UDim2.new(0.666533768, 0, 0.610019684, 0)
 OwlHub.Size = UDim2.new(0, 64, 0, 45)
@@ -396,10 +638,10 @@ OwlHub.TextScaled = true
 OwlHub.TextSize = 14.000
 OwlHub.TextWrapped = true
 
-UICorner_20.Parent = OwlHub
+UICorner_36.Parent = OwlHub
 
 Skywars.Name = "Skywars"
-Skywars.Parent = Games
+Skywars.Parent = Games_2
 Skywars.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 Skywars.Position = UDim2.new(0.347889632, 0, 0.745870471, 0)
 Skywars.Size = UDim2.new(0, 64, 0, 45)
@@ -410,10 +652,10 @@ Skywars.TextScaled = true
 Skywars.TextSize = 14.000
 Skywars.TextWrapped = true
 
-UICorner_21.Parent = Skywars
+UICorner_37.Parent = Skywars
 
 AlphaX.Name = "AlphaX"
-AlphaX.Parent = Games
+AlphaX.Parent = Games_2
 AlphaX.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 AlphaX.Position = UDim2.new(0.356995642, 0, 0.0232334286, 0)
 AlphaX.Size = UDim2.new(0, 64, 0, 45)
@@ -424,10 +666,10 @@ AlphaX.TextScaled = true
 AlphaX.TextSize = 14.000
 AlphaX.TextWrapped = true
 
-UICorner_22.Parent = AlphaX
+UICorner_38.Parent = AlphaX
 
 CMDX.Name = "CMDX"
-CMDX.Parent = Games
+CMDX.Parent = Games_2
 CMDX.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 CMDX.Position = UDim2.new(0.668860018, 0, 0.0253638476, 0)
 CMDX.Size = UDim2.new(0, 64, 0, 45)
@@ -437,24 +679,24 @@ CMDX.TextColor3 = Color3.fromRGB(0, 0, 0)
 CMDX.TextSize = 27.000
 CMDX.TextWrapped = true
 
-UICorner_23.Parent = CMDX
+UICorner_39.Parent = CMDX
 
-BuildABoat.Name = "BuildABoat"
-BuildABoat.Parent = Games
-BuildABoat.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
-BuildABoat.Position = UDim2.new(0.0419076085, 0, 0.168092698, 0)
-BuildABoat.Size = UDim2.new(0, 64, 0, 45)
-BuildABoat.Font = Enum.Font.TitilliumWeb
-BuildABoat.Text = "Build  a boat"
-BuildABoat.TextColor3 = Color3.fromRGB(0, 0, 0)
-BuildABoat.TextScaled = true
-BuildABoat.TextSize = 14.000
-BuildABoat.TextWrapped = true
+BuildABoat_2.Name = "BuildABoat"
+BuildABoat_2.Parent = Games_2
+BuildABoat_2.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
+BuildABoat_2.Position = UDim2.new(0.0419076085, 0, 0.168092698, 0)
+BuildABoat_2.Size = UDim2.new(0, 64, 0, 45)
+BuildABoat_2.Font = Enum.Font.TitilliumWeb
+BuildABoat_2.Text = "Build  a boat"
+BuildABoat_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+BuildABoat_2.TextScaled = true
+BuildABoat_2.TextSize = 14.000
+BuildABoat_2.TextWrapped = true
 
-UICorner_24.Parent = BuildABoat
+UICorner_40.Parent = BuildABoat_2
 
 DaHood.Name = "DaHood"
-DaHood.Parent = Games
+DaHood.Parent = Games_2
 DaHood.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 DaHood.Position = UDim2.new(0.354378551, 0, 0.167277575, 0)
 DaHood.Size = UDim2.new(0, 64, 0, 45)
@@ -464,10 +706,10 @@ DaHood.TextColor3 = Color3.fromRGB(0, 0, 0)
 DaHood.TextSize = 23.000
 DaHood.TextWrapped = true
 
-UICorner_25.Parent = DaHood
+UICorner_41.Parent = DaHood
 
 DaHood2.Name = "DaHood2"
-DaHood2.Parent = Games
+DaHood2.Parent = Games_2
 DaHood2.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 DaHood2.Position = UDim2.new(0.668468952, 0, 0.165358365, 0)
 DaHood2.Size = UDim2.new(0, 64, 0, 45)
@@ -478,10 +720,10 @@ DaHood2.TextScaled = true
 DaHood2.TextSize = 14.000
 DaHood2.TextWrapped = true
 
-UICorner_26.Parent = DaHood2
+UICorner_42.Parent = DaHood2
 
 DarkHub.Name = "DarkHub"
-DarkHub.Parent = Games
+DarkHub.Parent = Games_2
 DarkHub.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 DarkHub.Position = UDim2.new(0.040667668, 0, 0.322241873, 0)
 DarkHub.Size = UDim2.new(0, 64, 0, 45)
@@ -492,10 +734,10 @@ DarkHub.TextScaled = true
 DarkHub.TextSize = 14.000
 DarkHub.TextWrapped = true
 
-UICorner_27.Parent = DarkHub
+UICorner_43.Parent = DarkHub
 
 DaHoodAutoFarm.Name = "DaHoodAutoFarm"
-DaHoodAutoFarm.Parent = Games
+DaHoodAutoFarm.Parent = Games_2
 DaHoodAutoFarm.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 DaHoodAutoFarm.Position = UDim2.new(0.666242957, 0, 0.323352993, 0)
 DaHoodAutoFarm.Size = UDim2.new(0, 64, 0, 45)
@@ -506,10 +748,10 @@ DaHoodAutoFarm.TextScaled = true
 DaHoodAutoFarm.TextSize = 14.000
 DaHoodAutoFarm.TextWrapped = true
 
-UICorner_28.Parent = DaHoodAutoFarm
+UICorner_44.Parent = DaHoodAutoFarm
 
 DuckHub.Name = "DuckHub"
-DuckHub.Parent = Games
+DuckHub.Parent = Games_2
 DuckHub.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 DuckHub.Position = UDim2.new(0.347598881, 0, 0.33464849, 0)
 DuckHub.Size = UDim2.new(0, 64, 0, 45)
@@ -520,10 +762,10 @@ DuckHub.TextScaled = true
 DuckHub.TextSize = 14.000
 DuckHub.TextWrapped = true
 
-UICorner_29.Parent = DuckHub
+UICorner_45.Parent = DuckHub
 
 InfiniteYield.Name = "InfiniteYield"
-InfiniteYield.Parent = Games
+InfiniteYield.Parent = Games_2
 InfiniteYield.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 InfiniteYield.Position = UDim2.new(0.0428048968, 0, 0.462812185, 0)
 InfiniteYield.Size = UDim2.new(0, 64, 0, 45)
@@ -534,24 +776,24 @@ InfiniteYield.TextScaled = true
 InfiniteYield.TextSize = 14.000
 InfiniteYield.TextWrapped = true
 
-UICorner_30.Parent = InfiniteYield
+UICorner_46.Parent = InfiniteYield
 
-JailBreak.Name = "JailBreak"
-JailBreak.Parent = Games
-JailBreak.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
-JailBreak.Position = UDim2.new(0.353605807, 0, 0.46142599, 0)
-JailBreak.Size = UDim2.new(0, 64, 0, 45)
-JailBreak.Font = Enum.Font.TitilliumWeb
-JailBreak.Text = "Jail Break"
-JailBreak.TextColor3 = Color3.fromRGB(0, 0, 0)
-JailBreak.TextScaled = true
-JailBreak.TextSize = 14.000
-JailBreak.TextWrapped = true
+JailBreak_2.Name = "JailBreak"
+JailBreak_2.Parent = Games_2
+JailBreak_2.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
+JailBreak_2.Position = UDim2.new(0.353605807, 0, 0.46142599, 0)
+JailBreak_2.Size = UDim2.new(0, 64, 0, 45)
+JailBreak_2.Font = Enum.Font.TitilliumWeb
+JailBreak_2.Text = "Jail Break"
+JailBreak_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+JailBreak_2.TextScaled = true
+JailBreak_2.TextSize = 14.000
+JailBreak_2.TextWrapped = true
 
-UICorner_31.Parent = JailBreak
+UICorner_47.Parent = JailBreak_2
 
 JailBreakAutoRob.Name = "JailBreakAutoRob"
-JailBreakAutoRob.Parent = Games
+JailBreakAutoRob.Parent = Games_2
 JailBreakAutoRob.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 JailBreakAutoRob.Position = UDim2.new(0.666242957, 0, 0.461288691, 0)
 JailBreakAutoRob.Size = UDim2.new(0, 64, 0, 45)
@@ -562,24 +804,24 @@ JailBreakAutoRob.TextScaled = true
 JailBreakAutoRob.TextSize = 14.000
 JailBreakAutoRob.TextWrapped = true
 
-UICorner_32.Parent = JailBreakAutoRob
+UICorner_48.Parent = JailBreakAutoRob
 
-LumberTycoon2.Name = "LumberTycoon2"
-LumberTycoon2.Parent = Games
-LumberTycoon2.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
-LumberTycoon2.Position = UDim2.new(0.0419076122, 0, 0.613517702, 0)
-LumberTycoon2.Size = UDim2.new(0, 64, 0, 45)
-LumberTycoon2.Font = Enum.Font.TitilliumWeb
-LumberTycoon2.Text = "Lumber Tycoon 2"
-LumberTycoon2.TextColor3 = Color3.fromRGB(0, 0, 0)
-LumberTycoon2.TextScaled = true
-LumberTycoon2.TextSize = 14.000
-LumberTycoon2.TextWrapped = true
+LumberTycoon2_2.Name = "LumberTycoon2"
+LumberTycoon2_2.Parent = Games_2
+LumberTycoon2_2.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
+LumberTycoon2_2.Position = UDim2.new(0.0419076122, 0, 0.613517702, 0)
+LumberTycoon2_2.Size = UDim2.new(0, 64, 0, 45)
+LumberTycoon2_2.Font = Enum.Font.TitilliumWeb
+LumberTycoon2_2.Text = "Lumber Tycoon 2"
+LumberTycoon2_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+LumberTycoon2_2.TextScaled = true
+LumberTycoon2_2.TextSize = 14.000
+LumberTycoon2_2.TextWrapped = true
 
-UICorner_33.Parent = LumberTycoon2
+UICorner_49.Parent = LumberTycoon2_2
 
 LumberTycoon2Dupe.Name = "LumberTycoon2Dupe"
-LumberTycoon2Dupe.Parent = Games
+LumberTycoon2Dupe.Parent = Games_2
 LumberTycoon2Dupe.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 LumberTycoon2Dupe.Position = UDim2.new(0.350382209, 0, 0.611966789, 0)
 LumberTycoon2Dupe.Size = UDim2.new(0, 64, 0, 45)
@@ -590,24 +832,24 @@ LumberTycoon2Dupe.TextScaled = true
 LumberTycoon2Dupe.TextSize = 14.000
 LumberTycoon2Dupe.TextWrapped = true
 
-UICorner_34.Parent = LumberTycoon2Dupe
+UICorner_50.Parent = LumberTycoon2Dupe
 
-MurderMystery2.Name = "MurderMystery2"
-MurderMystery2.Parent = Games
-MurderMystery2.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
-MurderMystery2.Position = UDim2.new(0.0417414904, 0, 0.744638681, 0)
-MurderMystery2.Size = UDim2.new(0, 64, 0, 45)
-MurderMystery2.Font = Enum.Font.TitilliumWeb
-MurderMystery2.Text = "Murder Mystery 2"
-MurderMystery2.TextColor3 = Color3.fromRGB(0, 0, 0)
-MurderMystery2.TextScaled = true
-MurderMystery2.TextSize = 14.000
-MurderMystery2.TextWrapped = true
+MurderMystery2_2.Name = "MurderMystery2"
+MurderMystery2_2.Parent = Games_2
+MurderMystery2_2.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
+MurderMystery2_2.Position = UDim2.new(0.0417414904, 0, 0.744638681, 0)
+MurderMystery2_2.Size = UDim2.new(0, 64, 0, 45)
+MurderMystery2_2.Font = Enum.Font.TitilliumWeb
+MurderMystery2_2.Text = "Murder Mystery 2"
+MurderMystery2_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+MurderMystery2_2.TextScaled = true
+MurderMystery2_2.TextSize = 14.000
+MurderMystery2_2.TextWrapped = true
 
-UICorner_35.Parent = MurderMystery2
+UICorner_51.Parent = MurderMystery2_2
 
 ShindoLifeAutoFarm.Name = "ShindoLifeAutoFarm"
-ShindoLifeAutoFarm.Parent = Games
+ShindoLifeAutoFarm.Parent = Games_2
 ShindoLifeAutoFarm.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 ShindoLifeAutoFarm.Position = UDim2.new(0.346992344, 0, 0.883527517, 0)
 ShindoLifeAutoFarm.Size = UDim2.new(0, 64, 0, 45)
@@ -618,10 +860,10 @@ ShindoLifeAutoFarm.TextScaled = true
 ShindoLifeAutoFarm.TextSize = 14.000
 ShindoLifeAutoFarm.TextWrapped = true
 
-UICorner_36.Parent = ShindoLifeAutoFarm
+UICorner_52.Parent = ShindoLifeAutoFarm
 
 ThoseWhoRemain.Name = "ThoseWhoRemain"
-ThoseWhoRemain.Parent = Games
+ThoseWhoRemain.Parent = Games_2
 ThoseWhoRemain.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 ThoseWhoRemain.Position = UDim2.new(0.662246585, 0, 0.883527517, 0)
 ThoseWhoRemain.Size = UDim2.new(0, 64, 0, 45)
@@ -632,9 +874,9 @@ ThoseWhoRemain.TextScaled = true
 ThoseWhoRemain.TextSize = 14.000
 ThoseWhoRemain.TextWrapped = true
 
-UICorner_37.Parent = ThoseWhoRemain
+UICorner_53.Parent = ThoseWhoRemain
 
-UICorner_38.Parent = Scripts
+UICorner_54.Parent = Scripts
 
 Pages.Name = "Pages"
 Pages.Parent = PremiumGUI
@@ -658,7 +900,7 @@ Home_2.TextScaled = true
 Home_2.TextSize = 14.000
 Home_2.TextWrapped = true
 
-UICorner_39.Parent = Home_2
+UICorner_55.Parent = Home_2
 
 Scripts_2.Name = "Scripts"
 Scripts_2.Parent = Pages
@@ -674,7 +916,7 @@ Scripts_2.TextScaled = true
 Scripts_2.TextSize = 14.000
 Scripts_2.TextWrapped = true
 
-UICorner_40.Parent = Scripts_2
+UICorner_56.Parent = Scripts_2
 
 Player_2.Name = "Player"
 Player_2.Parent = Pages
@@ -690,20 +932,13 @@ Player_2.TextScaled = true
 Player_2.TextSize = 14.000
 Player_2.TextWrapped = true
 
-UICorner_41.Parent = Player_2
+UICorner_57.Parent = Player_2
 
-UICorner_42.Parent = Pages
+UICorner_58.Parent = Pages
 
 -- Scripts:
 
-local function DBXSPMP_fake_script() -- PremiumGUI.Script 
-	local script = Instance.new('Script', PremiumGUI)
-
-	script.Parent.Active = true
-	script.Parent.Draggable = true
-end
-coroutine.wrap(DBXSPMP_fake_script)()
-local function QRUHHEI_fake_script() -- Player.SpeedScript 
+local function VQQCL_fake_script() -- Player.SpeedScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -742,8 +977,8 @@ local function QRUHHEI_fake_script() -- Player.SpeedScript
 	
 	end)
 end
-coroutine.wrap(QRUHHEI_fake_script)()
-local function WEOIMH_fake_script() -- Player.JumpScript 
+coroutine.wrap(VQQCL_fake_script)()
+local function YVAJMA_fake_script() -- Player.JumpScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -751,8 +986,8 @@ local function WEOIMH_fake_script() -- Player.JumpScript
 		player.Character.Humanoid.JumpPower = script.Parent.JumpText.Text
 	end)
 end
-coroutine.wrap(WEOIMH_fake_script)()
-local function PUJZ_fake_script() -- Player.FlightScript 
+coroutine.wrap(YVAJMA_fake_script)()
+local function HMYZK_fake_script() -- Player.FlightScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -841,8 +1076,8 @@ local function PUJZ_fake_script() -- Player.FlightScript
 	end)
 	
 end
-coroutine.wrap(PUJZ_fake_script)()
-local function CTSKJS_fake_script() -- Player.NoClipScript 
+coroutine.wrap(HMYZK_fake_script)()
+local function TGFYPS_fake_script() -- Player.NoClipScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -867,8 +1102,8 @@ local function CTSKJS_fake_script() -- Player.NoClipScript
 	end)
 	
 end
-coroutine.wrap(CTSKJS_fake_script)()
-local function FNLXVA_fake_script() -- Player.InfiniteJumpScript 
+coroutine.wrap(TGFYPS_fake_script)()
+local function FCAGVLC_fake_script() -- Player.InfiniteJumpScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -881,8 +1116,8 @@ local function FNLXVA_fake_script() -- Player.InfiniteJumpScript
 		end)
 	end)
 end
-coroutine.wrap(FNLXVA_fake_script)()
-local function TYBKQ_fake_script() -- Player.ClickTPScript 
+coroutine.wrap(FCAGVLC_fake_script)()
+local function QVKQ_fake_script() -- Player.ClickTPScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -904,8 +1139,8 @@ local function TYBKQ_fake_script() -- Player.ClickTPScript
 		tool.Parent = plr.Backpack
 	end)
 end
-coroutine.wrap(TYBKQ_fake_script)()
-local function ZALQ_fake_script() -- Player.BToolsScript 
+coroutine.wrap(QVKQ_fake_script)()
+local function GNGHRBZ_fake_script() -- Player.BToolsScript 
 	local script = Instance.new('LocalScript', Player)
 
 	local player = game.Players.LocalPlayer
@@ -922,14 +1157,126 @@ local function ZALQ_fake_script() -- Player.BToolsScript
 		tool5.BinType = "Grab"
 	end)
 end
-coroutine.wrap(ZALQ_fake_script)()
-local function WCTO_fake_script() -- Home.AboutScript 
+coroutine.wrap(GNGHRBZ_fake_script)()
+local function SNTGNA_fake_script() -- Home.AboutScript 
 	local script = Instance.new('LocalScript', Home)
 
 	script.Parent.About.Text = "Hi " .. game.Players.LocalPlayer.Name .. ", thank you for purchasing Reaper Hub this will continuously update this GUI if you have any suggestions/problems just DM me. ReaperHacks#0001. P To toggle"
 end
-coroutine.wrap(WCTO_fake_script)()
-local function HZKM_fake_script() -- PremiumGUI.ToggleScript 
+coroutine.wrap(SNTGNA_fake_script)()
+local function ZANNL_fake_script() -- Home.GamesGUIScript 
+	local script = Instance.new('LocalScript', Home)
+
+	local isVisible = true
+	script.Parent.Games.MouseButton1Click:Connect(function()
+		if isVisible == false then
+			script.Parent.GamesGUI.Visible = true
+			isVisible = true
+		elseif isVisible == true then
+			script.Parent.GamesGUI.Visible = false
+			wait()
+			isVisible = false
+		end
+	end)
+end
+coroutine.wrap(ZANNL_fake_script)()
+local function XWYPZE_fake_script() -- LumberTycoon2.LumberTycoon2TeleportService 
+	local script = Instance.new('Script', LumberTycoon2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(13822889)
+	end)
+end
+coroutine.wrap(XWYPZE_fake_script)()
+local function BDWLLY_fake_script() -- MurderMystery2.MurderMystery2TeleportService 
+	local script = Instance.new('Script', MurderMystery2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(142823291)
+	end)
+end
+coroutine.wrap(BDWLLY_fake_script)()
+local function XRNROT_fake_script() -- Arsenal.ArsenalTeleportService 
+	local script = Instance.new('Script', Arsenal)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(286090429)
+	end)
+end
+coroutine.wrap(XRNROT_fake_script)()
+local function BOYT_fake_script() -- PhantomForces.PhantomForcesTeleportService 
+	local script = Instance.new('Script', PhantomForces)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(292439477)
+	end)
+end
+coroutine.wrap(BOYT_fake_script)()
+local function PGZV_fake_script() -- Strucid.StrucidTeleportService 
+	local script = Instance.new('Script', Strucid)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(2377868063)
+	end)
+end
+coroutine.wrap(PGZV_fake_script)()
+local function HQIL_fake_script() -- JailBreak.JailBreakTeleportService 
+	local script = Instance.new('Script', JailBreak)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(606849621)
+	end)
+end
+coroutine.wrap(HQIL_fake_script)()
+local function PZVHH_fake_script() -- SkyWars.SkyWarsTeleportService 
+	local script = Instance.new('Script', SkyWars)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(855499080)
+	end)
+end
+coroutine.wrap(PZVHH_fake_script)()
+local function SSYACV_fake_script() -- RagDollEngine.RagDollEngineTeleportService 
+	local script = Instance.new('Script', RagDollEngine)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(2041312716)
+	end)
+end
+coroutine.wrap(SSYACV_fake_script)()
+local function GQQQTEW_fake_script() -- MadCity.MadCityTeleportService 
+	local script = Instance.new('Script', MadCity)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(1224212277)
+	end)
+end
+coroutine.wrap(GQQQTEW_fake_script)()
+local function LTZXDYE_fake_script() -- ShindoLife.ShindoLifeTeleportService 
+	local script = Instance.new('Script', ShindoLife)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(4616652839)
+	end)
+end
+coroutine.wrap(LTZXDYE_fake_script)()
+local function GFTKQDR_fake_script() -- CounterBlox.CounterBloxTeleportService 
+	local script = Instance.new('Script', CounterBlox)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(301549746)
+	end)
+end
+coroutine.wrap(GFTKQDR_fake_script)()
+local function ZLUL_fake_script() -- BuildABoat.BuildABoatTeleportService 
+	local script = Instance.new('Script', BuildABoat)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game:GetService('TeleportService'):Teleport(537413528)
+	end)
+end
+coroutine.wrap(ZLUL_fake_script)()
+local function RZOKCPN_fake_script() -- PremiumGUI.ToggleScript 
 	local script = Instance.new('LocalScript', PremiumGUI)
 
 	local isVisible = true
@@ -953,62 +1300,62 @@ local function HZKM_fake_script() -- PremiumGUI.ToggleScript
 		end
 	end)
 end
-coroutine.wrap(HZKM_fake_script)()
-local function CUZWGVL_fake_script() -- Games.AdoptMeScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(RZOKCPN_fake_script)()
+local function DNRCD_fake_script() -- Games_2.AdoptMeScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.AdoptMe.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/Z3iAXASr", true))()
 	end)
 end
-coroutine.wrap(CUZWGVL_fake_script)()
-local function BZBTY_fake_script() -- Games.AlphaXScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(DNRCD_fake_script)()
+local function MRDYLM_fake_script() -- Games_2.AlphaXScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.AlphaX.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://drizzy.wtf/PinkX/Script", true))() 'PinkXWinning (PinkX v2)' 
 	end)
 end
-coroutine.wrap(BZBTY_fake_script)()
-local function PGTB_fake_script() -- Games.BuildABoatScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(MRDYLM_fake_script)()
+local function MTPTTJ_fake_script() -- Games_2.BuildABoatScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.BuildABoat.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FunnyTimeOkGood/OpPFScript/main/ScriptPF"))()
 	end)
 end
-coroutine.wrap(PGTB_fake_script)()
-local function PWLXGO_fake_script() -- Games.CMDXScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(MTPTTJ_fake_script)()
+local function EWLMSY_fake_script() -- Games_2.CMDXScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.CMDX.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
 	end)
 end
-coroutine.wrap(PWLXGO_fake_script)()
-local function YTVLJMN_fake_script() -- Games.DaHood2Script 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(EWLMSY_fake_script)()
+local function VXYNR_fake_script() -- Games_2.DaHood2Script 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.DaHood2.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/kryptx"))()
 	end)
 end
-coroutine.wrap(YTVLJMN_fake_script)()
-local function KSDOBI_fake_script() -- Games.DaHoodAutoFarm 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(VXYNR_fake_script)()
+local function CAJQYZS_fake_script() -- Games_2.DaHoodAutoFarmScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	script.Parent.DaHoodAutoFarm.MouseButton1Click:connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/rapnz/scripts/master/DaHoodFarm.lua"))()
 	end)
 end
-coroutine.wrap(KSDOBI_fake_script)()
-local function ENRLBSJ_fake_script() -- Games.DaHoodScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(CAJQYZS_fake_script)()
+local function ORDHL_fake_script() -- Games_2.DaHoodScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.DaHood.MouseButton1Click:Connect(function()
@@ -1018,70 +1365,70 @@ local function ENRLBSJ_fake_script() -- Games.DaHoodScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/loader"))()
 	end)
 end
-coroutine.wrap(ENRLBSJ_fake_script)()
-local function BJADUU_fake_script() -- Games.ThoseWhoRemainScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(ORDHL_fake_script)()
+local function FGKDXKS_fake_script() -- Games_2.ThoseWhoRemainScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	script.Parent.ThoseWhoRemain.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Avverias/joehack/main/those%20who%20remain.lua")) ()
 	end)
 end
-coroutine.wrap(BJADUU_fake_script)()
-local function EFBAP_fake_script() -- Games.InfiniteYieldScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(FGKDXKS_fake_script)()
+local function MHBGAS_fake_script() -- Games_2.InfiniteYieldScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.InfiniteYield.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 	end)
 end
-coroutine.wrap(EFBAP_fake_script)()
-local function NVPCTF_fake_script() -- Games.JailBreakAutoRobScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(MHBGAS_fake_script)()
+local function MHRN_fake_script() -- Games_2.JailBreakAutoRobScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.JailBreakAutoRob.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1"))()
 	end)
 end
-coroutine.wrap(NVPCTF_fake_script)()
-local function LLYJS_fake_script() -- Games.JailBreakScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(MHRN_fake_script)()
+local function JTKJBYX_fake_script() -- Games_2.JailBreakScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.JailBreak.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet(("https://darkhub.xyz/remote-script.lua"), true))()
 	end)
 end
-coroutine.wrap(LLYJS_fake_script)()
-local function TDUUWZ_fake_script() -- Games.LumberTycoon2DupeScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(JTKJBYX_fake_script)()
+local function CYFP_fake_script() -- Games_2.LumberTycoon2DupeScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.LumberTycoon2Dupe.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FunnyTimeOkGood/Lumber2DupeMoney/main/DupeMoneyez"))()
 	end)
 end
-coroutine.wrap(TDUUWZ_fake_script)()
-local function RLLHVY_fake_script() -- Games.LumberTycoon2Script 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(CYFP_fake_script)()
+local function TFNH_fake_script() -- Games_2.LumberTycoon2Script 
+	local script = Instance.new('LocalScript', Games_2)
 
 	script.Parent.LumberTycoon2.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('8.4 beta released :))')
 	end)
 end
-coroutine.wrap(RLLHVY_fake_script)()
-local function RKFBFI_fake_script() -- Games.MurderMystery2Script 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(TFNH_fake_script)()
+local function EFOABJ_fake_script() -- Games_2.MurderMystery2Script 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.MurderMystery2.MouseButton1Click:Connect(function()
 		loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
 	end)
 end
-coroutine.wrap(RKFBFI_fake_script)()
-local function KNTGS_fake_script() -- Games.OwlHubScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(EFOABJ_fake_script)()
+local function DMCHWKO_fake_script() -- Games_2.OwlHubScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.OwlHub.MouseButton1Click:Connect(function()
@@ -1100,62 +1447,62 @@ local function KNTGS_fake_script() -- Games.OwlHubScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt"))()
 	end)
 end
-coroutine.wrap(KNTGS_fake_script)()
-local function ZDVM_fake_script() -- Games.ShindoLifeAutoFarmScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(DMCHWKO_fake_script)()
+local function SELWVSV_fake_script() -- Games_2.ShindoLifeAutoFarmScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.ShindoLifeAutoFarm.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://bruh.keshhub.com/.lua"))()
 	end)
 end
-coroutine.wrap(ZDVM_fake_script)()
-local function NZQKYY_fake_script() -- Games.SkywarsScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(SELWVSV_fake_script)()
+local function ZHYOYY_fake_script() -- Games_2.SkywarsScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.Skywars.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/Loadstring9VHD6Wmyi82n", true))()
 	end)
 end
-coroutine.wrap(NZQKYY_fake_script)()
-local function ADIZDF_fake_script() -- Games.TowerOfHellScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(ZHYOYY_fake_script)()
+local function UFCRDHD_fake_script() -- Games_2.TowerOfHellScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.TowerOfHell.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/iiProductionz/Floater-Scripts/main/WaifuEdition/Tower%20Of%20Hell"))()
 	end)
 end
-coroutine.wrap(ADIZDF_fake_script)()
-local function MOEZ_fake_script() -- Games.UniversalAimbotScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(UFCRDHD_fake_script)()
+local function MUCR_fake_script() -- Games_2.UniversalAimbotScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.UniversalAimbot.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/FunnyTimeOkGood/UniversalAimbot/main/Aimbotyes"))()
 	end)
 end
-coroutine.wrap(MOEZ_fake_script)()
-local function AUPAARC_fake_script() -- Games.DuckHubScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(MUCR_fake_script)()
+local function HTGTNLW_fake_script() -- Games_2.DuckHubScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.DuckHub.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/NougatBitz/DuckHub/master/Main.lua'))()
 	end)
 end
-coroutine.wrap(AUPAARC_fake_script)()
-local function OWDW_fake_script() -- Games.DarkHubScript 
-	local script = Instance.new('LocalScript', Games)
+coroutine.wrap(HTGTNLW_fake_script)()
+local function FXWFHH_fake_script() -- Games_2.DarkHubScript 
+	local script = Instance.new('LocalScript', Games_2)
 
 	local player = game.Players.LocalPlayer
 	script.Parent.DarkHub.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet(("https://darkhub.xyz/remote-script.lua"), true))()
 	end)
 end
-coroutine.wrap(OWDW_fake_script)()
-local function GKCLFR_fake_script() -- Home_2.HomeScript 
+coroutine.wrap(FXWFHH_fake_script)()
+local function GZLN_fake_script() -- Home_2.HomeScript 
 	local script = Instance.new('Script', Home_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1165,8 +1512,8 @@ local function GKCLFR_fake_script() -- Home_2.HomeScript
 		script.Parent.Parent.Parent.Player.Visible = false
 	end)
 end
-coroutine.wrap(GKCLFR_fake_script)()
-local function TOIXQKK_fake_script() -- Scripts_2.ScriptsScript 
+coroutine.wrap(GZLN_fake_script)()
+local function XQASH_fake_script() -- Scripts_2.ScriptsScript 
 	local script = Instance.new('Script', Scripts_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1176,8 +1523,8 @@ local function TOIXQKK_fake_script() -- Scripts_2.ScriptsScript
 		script.Parent.Parent.Parent.Player.Visible = false
 	end)
 end
-coroutine.wrap(TOIXQKK_fake_script)()
-local function ZTTXTYG_fake_script() -- Player_2.PlayerScript 
+coroutine.wrap(XQASH_fake_script)()
+local function VMVKPTX_fake_script() -- Player_2.PlayerScript 
 	local script = Instance.new('Script', Player_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1187,8 +1534,8 @@ local function ZTTXTYG_fake_script() -- Player_2.PlayerScript
 		script.Parent.Parent.Parent.Scripts.Visible = false
 	end)
 end
-coroutine.wrap(ZTTXTYG_fake_script)()
-local function YOMWYQQ_fake_script() -- ScreenGui.Verification 
+coroutine.wrap(VMVKPTX_fake_script)()
+local function TXETH_fake_script() -- ScreenGui.Verification 
 	local script = Instance.new('LocalScript', ScreenGui)
 
 	local groupid = 9323224
@@ -1197,4 +1544,48 @@ local function YOMWYQQ_fake_script() -- ScreenGui.Verification
 		game.Players.LocalPlayer:Kick("Not Bought, buy at https://discord.gg/5CFKAXczcZ")
 	end
 end
-coroutine.wrap(YOMWYQQ_fake_script)()
+coroutine.wrap(TXETH_fake_script)()
+local function QDILJ_fake_script() -- ScreenGui.Draggable 
+	local script = Instance.new('LocalScript', ScreenGui)
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent.PremiumGUI
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+end
+coroutine.wrap(QDILJ_fake_script)()
